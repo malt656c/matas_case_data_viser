@@ -10,9 +10,7 @@ export default function Home() {
   return (
     <main>
       {productData.map((produkt)=>{
-  return(
     <ProductCard key={produkt.id} image={produkt.image} name={produkt.name} price={produkt.price} ></ProductCard>
-  )
 })}
     </main>
   )
