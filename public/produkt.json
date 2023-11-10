@@ -1,0 +1,3789 @@
+[
+    {
+        "id": 750249,
+        "name": "Kiehl’s Avocado Creamy Eye Treatment 14 g",
+        "image": "https://images.matas.dk/encode/3700194714413.jpg",
+        "brand": "Kiehl’s",
+        "price": "264,95 kr."
+    },
+    {
+        "id": 783572,
+        "name": "Matas Striber Ansigtspleje til Sensitiv Hud Gaveæske",
+        "image": "https://images.matas.dk/encode/783572.jpg",
+        "brand": "Matas Striber",
+        "price": "179,95 kr."
+    },
+    {
+        "id": 776711,
+        "name": "CeraVe Reparative Hand Cream 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702001-702100/702067/product_v1_x2.jpg",
+        "brand": "CeraVe",
+        "price": "52,95 kr."
+    },
+    {
+        "id": 734004,
+        "name": "Pudderdåserne.dk A-Serum 5% 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/639001-640000/639201-639300/639232/product_v1_x2.jpg",
+        "brand": "Pudderdåserne.dk",
+        "price": "279,95 kr."
+    },
+    {
+        "id": 714870,
+        "name": "Ole Henriksen 3 Little Wonders Gaveæske 90 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/504001-505000/504101-504200/504176/product_v1_x2.jpg",
+        "brand": "Ole Henriksen",
+        "price": "799,95 kr."
+    },
+    {
+        "id": 776790,
+        "name": "Ecooking Fugtmaske Parfumefri 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653801-653900/653894/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "224,96 kr."
+    },
+    {
+        "id": 800327,
+        "name": "Matas Striber 10% Niacinamid Booster Serum Uden Parfume 30 ml",
+        "image": "https://images.matas.dk/encode/800327.jpg",
+        "brand": "Matas Striber",
+        "price": "74,95 kr."
+    },
+    {
+        "id": 728919,
+        "name": "Matas Striber Mild Dagcreme til Sensitiv Hud Uden Parfume 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/377001-378000/377101-377200/377193/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "74,95 kr."
+    },
+    {
+        "id": 761412,
+        "name": "Olívy Baby Care Diaper Change 250 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/596001-597000/596101-596200/596154/product_v1_x2.jpg",
+        "brand": "Olívy",
+        "price": "99,95 kr."
+    },
+    {
+        "id": 719815,
+        "name": "Lacoste L.12.12 White Deodorant Spray 150 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/717001-718000/717101-717200/717140/product_v1_x2.jpg",
+        "brand": "Lacoste",
+        "price": "99,95 kr."
+    },
+    {
+        "id": 817095,
+        "name": "Clinique Moisture Surge Intense Gaveæske",
+        "image": "https://images.matas.dk/encode/192333178751.jpg",
+        "brand": "Clinique",
+        "price": "299,95 kr."
+    },
+    {
+        "id": 801035,
+        "name": "L'Oréal Paris Vitamin C Serum 30 ml",
+        "image": "https://images.matas.dk/encode/3600524077648__1.jpg",
+        "brand": "L'Oréal Paris",
+        "price": "239,95 kr."
+    },
+    {
+        "id": 775266,
+        "name": "Kiehl’s Retinol Daily Micro-Dose Treatment 30 ml",
+        "image": "https://images.matas.dk/encode/3605972610010.jpg",
+        "brand": "Kiehl’s",
+        "price": "414,95 kr."
+    },
+    {
+        "id": 723223,
+        "name": "Matas Striber Firming Dagcreme SPF 15 til Tør Hud Uden Parfume 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/700001-701000/700101-700200/700127/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "84,95 kr."
+    },
+    {
+        "id": 623043,
+        "name": "Rudolph Care Acai Facial Oil 15 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/591001-592000/591001-591100/591018/product_v1_x2.jpg",
+        "brand": "Rudolph Care",
+        "price": "794,95 kr."
+    },
+    {
+        "id": 807126,
+        "name": "Avène Cicalfate+ Cream 40 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/747001-748000/747101-747200/747168/product_v1_x2.jpg",
+        "brand": "Avène",
+        "price": "109,95 kr."
+    },
+    {
+        "id": 991573,
+        "name": "Beauté Pacifique Enriched Moisturizing Daycreme All Skin Types 50 ml",
+        "image": "https://images.matas.dk/encode/991573.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "169,95 kr."
+    },
+    {
+        "id": 788868,
+        "name": "Plaisir Beautiful Glow Day Cream 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/763001-764000/763201-763300/763253/product_v1_x2.jpg",
+        "brand": "Plaisir",
+        "price": "169,95 kr."
+    },
+    {
+        "id": 645953,
+        "name": "Versace Eros Deodorant Spray 100 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/323001-324000/323501-323600/323594/product_v1_x2.jpg",
+        "brand": "Versace",
+        "price": "236,21 kr."
+    },
+    {
+        "id": 768074,
+        "name": "L'Oréal Paris Revitalift Laser Pure Retinol Night Serum 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/699001-700000/699101-699200/699117/product_v1_x2.jpg",
+        "brand": "L'Oréal Paris",
+        "price": "224,95 kr."
+    },
+    {
+        "id": 816120,
+        "name": "Clinique High Impact Mascara Gaveæske",
+        "image": "https://images.matas.dk/encode/192333180945.jpg",
+        "brand": "Clinique",
+        "price": "229,95 kr."
+    },
+    {
+        "id": 759600,
+        "name": "The Ordinary Granactive Retinoid 2% Emulsion 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/469001-470000/469301-469400/469310/product_v1_x2.jpg",
+        "brand": "The Ordinary",
+        "price": "112,95 kr."
+    },
+    {
+        "id": 815758,
+        "name": "Clarins Super Restorative Gaveæske",
+        "image": "https://images.matas.dk/encode/3666057210129_20231011101313.jpg",
+        "brand": "Clarins",
+        "price": "874,95 kr."
+    },
+    {
+        "id": 704218,
+        "name": "Australian Bodycare Face Wash 100 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/751001-752000/751001-751100/751053/product_v1_x2.jpg",
+        "brand": "Australian Bodycare",
+        "price": "119,95 kr."
+    },
+    {
+        "id": 807139,
+        "name": "Avène Cleanance Comedomed Cream 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/737001-738000/737401-737500/737415/product_v1_x2.jpg",
+        "brand": "Avène",
+        "price": "194,95 kr."
+    },
+    {
+        "id": 816193,
+        "name": "Tromborg Hand & Foot Cream Gaveæske",
+        "image": "https://images.matas.dk/encode/5704904888256_20231012115050.jpg",
+        "brand": "Tromborg",
+        "price": "179,95 kr."
+    },
+    {
+        "id": 784450,
+        "name": "Embryolisse Duo-Pack Lait Creme Concentrée 2 x 75ml",
+        "image": "https://images.matas.dk/encode/784450.jpg",
+        "brand": "Embryolisse",
+        "price": "299,95 kr."
+    },
+    {
+        "id": 646729,
+        "name": "Tromborg Anti-Aging Wrinkle Cream 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/694001-695000/694401-694500/694460/product_v1_x2.jpg",
+        "brand": "Tromborg",
+        "price": "889,95 kr."
+    },
+    {
+        "id": 774677,
+        "name": "Clinique Smart Clinical Repair Wrinkle Correcting Serum 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/735001-736000/735901-736000/735907/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "649,95 kr."
+    },
+    {
+        "id": 706450,
+        "name": "Hugo Boss HUGO Man Deodorant Spray for Men 150 ml",
+        "image": "https://images.matas.dk/encode/8005610340784_20231026130709.jpg",
+        "brand": "Hugo Boss",
+        "price": "99,95 kr."
+    },
+    {
+        "id": 801293,
+        "name": "Lancôme Hydra Zen Skincare Set",
+        "image": "https://images.matas.dk/encode/3614273942270.jpg",
+        "brand": "Lancôme",
+        "price": "469,95 kr."
+    },
+    {
+        "id": 810133,
+        "name": "Rudolph Care Open Arms Gaveæske",
+        "image": "https://images.matas.dk/encode/810133_20231025133204.jpg",
+        "brand": "Rudolph Care",
+        "price": "294,95 kr."
+    },
+    {
+        "id": 804439,
+        "name": "Matas Striber Hyaluron Bodyshampoo 500 ml",
+        "image": "https://images.matas.dk/encode/804439_20231009073826.jpg",
+        "brand": "Matas Striber",
+        "price": "52,95 kr."
+    },
+    {
+        "id": 890761,
+        "name": "Beauté Pacifique Oil-Free Moisturizer 40 ml",
+        "image": "https://images.matas.dk/encode/890761.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "249,95 kr."
+    },
+    {
+        "id": 791291,
+        "name": "Beauté Pacifique Skin Tonic All skin types 200 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/695001-696000/695701-695800/695724/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 737537,
+        "name": "Biotherm Aquasource Cream Normal/Combination Skin 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/763001-764000/763601-763700/763617/product_v1_x2.jpg",
+        "brand": "Biotherm",
+        "price": "319,95 kr."
+    },
+    {
+        "id": 767957,
+        "name": "La Roche-Posay Rosaliac 3-i-1 Rensegelé 195 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702101-702200/702167/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "167,95 kr."
+    },
+    {
+        "id": 743408,
+        "name": "Australian Bodycare Intim Wash 500 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/723001-724000/723901-724000/723973/product_v1_x2.jpg",
+        "brand": "Australian Bodycare",
+        "price": "179,95 kr."
+    },
+    {
+        "id": 725249,
+        "name": "Dermalogica Skin Smoothing Cream 100 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/508001-509000/508701-508800/508728/product_v1_x2.jpg",
+        "brand": "Dermalogica",
+        "price": "609,95 kr."
+    },
+    {
+        "id": 959240,
+        "name": "Estée Lauder DayWear Anti-Oxidant Cream SPF 15 Normal/Combineret, 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/483001-484000/483501-483600/483508/product_v1_x2.jpg",
+        "brand": "Estée Lauder",
+        "price": "534,95 kr."
+    },
+    {
+        "id": 885138,
+        "name": "Biotherm Day Control Deo Spray 150 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/622001-623000/622601-622700/622686/product_v1_x2.jpg",
+        "brand": "Biotherm",
+        "price": "129,95 kr."
+    },
+    {
+        "id": 730653,
+        "name": "Matas Natur Aloe Vera & E-vitamin Bodylotion 400 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/358001-359000/358501-358600/358576/product_v1_x2.jpg",
+        "brand": "Matas Natur",
+        "price": "99,95 kr."
+    },
+    {
+        "id": 697474,
+        "name": "Biotherm Blue Therapy Multi-Defender Cream SPF 25 Normal/Combination Skin 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/763001-764000/763301-763400/763373/product_v1_x2.jpg",
+        "brand": "Biotherm",
+        "price": "599,95 kr."
+    },
+    {
+        "id": 650031,
+        "name": "Clarins Radiance-Plus Golden Glow Booster 15 ml",
+        "image": "https://images.matas.dk/encode/3380810449068_20231011095744.jpg",
+        "brand": "Clarins",
+        "price": "239,95 kr."
+    },
+    {
+        "id": 816441,
+        "name": "Estée Lauder Daywear Skincare Gaveæske",
+        "image": "https://images.matas.dk/encode/887167667082.jpg",
+        "brand": "Estée Lauder",
+        "price": "534,95 kr."
+    },
+    {
+        "id": 673301,
+        "name": "Pudderdåserne.dk Alt i en Creme 150 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/519001-520000/519101-519200/519121/product_v1_x2.jpg",
+        "brand": "Pudderdåserne.dk",
+        "price": "119,95 kr."
+    },
+    {
+        "id": 992337,
+        "name": "Beauté Pacifique D-Force Anti-Age Daycreme 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/551001-552000/551001-551100/551045/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "599,95 kr."
+    },
+    {
+        "id": 727358,
+        "name": "Rudolph Care Moisture Delight 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/591001-592000/591001-591100/591067/product_v1_x2.jpg",
+        "brand": "Rudolph Care",
+        "price": "414,95 kr."
+    },
+    {
+        "id": 921429,
+        "name": "Urtegaarden Ricinusolie ØKO 100 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/520001-521000/520401-520500/520404/product_v1_x2.jpg",
+        "brand": "Urtegaarden",
+        "price": "55,95 kr."
+    },
+    {
+        "id": 657647,
+        "name": "Matas Striber Men Deo Spray 150 ml",
+        "image": "https://images.matas.dk/Assets_v3/200001-300000/245001-246000/245701-245800/245718/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "39,95 kr."
+    },
+    {
+        "id": 818280,
+        "name": "Ecooking Daily Routine Gaveæske",
+        "image": "https://images.matas.dk/encode/818280.jpg",
+        "brand": "Ecooking",
+        "price": "449,95 kr."
+    },
+    {
+        "id": 809955,
+        "name": "Biotherm Pro Retinol Gaveæske",
+        "image": "https://images.matas.dk/encode/3614274104417_20231009073544.jpg",
+        "brand": "Biotherm",
+        "price": "599,95 kr."
+    },
+    {
+        "id": 713156,
+        "name": "Hugo Boss Bottled Deodorant Men 75 gr",
+        "image": "https://images.matas.dk/encode/737052354996_20231026131235.jpg",
+        "brand": "Hugo Boss",
+        "price": "99,95 kr."
+    },
+    {
+        "id": 754835,
+        "name": "Clinique Even Better Clinical Radical Dark Spot Corrector + Interrupter 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/475001-476000/475201-475300/475294/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "824,95 kr."
+    },
+    {
+        "id": 746616,
+        "name": "Matas Natur Jojobaolie og E-vitamin Læbepomade 2 stk.",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/540001-541000/540401-540500/540471/product_v1_x2.jpg",
+        "brand": "Matas Natur",
+        "price": "46,95 kr."
+    },
+    {
+        "id": 814864,
+        "name": "Paco Rabanne Invictus Gaveæske",
+        "image": "https://images.matas.dk/encode/3349668632343.jpg",
+        "brand": "Paco Rabanne",
+        "price": "644,95 kr."
+    },
+    {
+        "id": 809953,
+        "name": "Biotherm Aquasource PS Gaveæske",
+        "image": "https://images.matas.dk/encode/3614274104431_20231009073543.jpg",
+        "brand": "Biotherm",
+        "price": "359,95 kr."
+    },
+    {
+        "id": 783574,
+        "name": "Matas Striber Mild Ansigtspleje Gaveæske",
+        "image": "https://images.matas.dk/encode/783574.jpg",
+        "brand": "Matas Striber",
+        "price": "149,95 kr."
+    },
+    {
+        "id": 791290,
+        "name": "Beauté Pacifique Cleansing Milk Dry skin 200 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/695001-696000/695701-695800/695722/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 812067,
+        "name": "Hugo Boss Bottled Eau de Toilette Gaveæske",
+        "image": "https://images.matas.dk/encode/5709927183234.jpg",
+        "brand": "Hugo Boss",
+        "price": "609,95 kr."
+    },
+    {
+        "id": 994966,
+        "name": "Jean Paul Gaultier Le Male Deodorant Spray 150 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/664001-665000/664401-664500/664467/product_v1_x2.jpg",
+        "brand": "Jean Paul Gaultier",
+        "price": "221,21 kr."
+    },
+    {
+        "id": 769157,
+        "name": "Vichy Neovadiol Rose Platinium dagcreme 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702301-702400/702318/product_v1_x2.jpg",
+        "brand": "Vichy",
+        "price": "294,95 kr."
+    },
+    {
+        "id": 636466,
+        "name": "Biotherm Blue Therapy Night Cream 50 ml",
+        "image": "https://images.matas.dk/encode/3605540886304_20231004111159.jpg",
+        "brand": "Biotherm",
+        "price": "634,95 kr."
+    },
+    {
+        "id": 907547,
+        "name": "Paco Rabanne 1 Million Deodorant Spray 150 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/622001-623000/622901-623000/622955/product_v1_x2.jpg",
+        "brand": "Paco Rabanne",
+        "price": "228,71 kr."
+    },
+    {
+        "id": 862071,
+        "name": "DKNY Cashmere Mist Deodorant Stick 50 g",
+        "image": "https://images.matas.dk/encode/085715940063_20231004063957.jpg",
+        "brand": "DKNY",
+        "price": "172,46 kr."
+    },
+    {
+        "id": 760449,
+        "name": "Vild Nord COLLAGEN CLEAN PROTEIN 300 g",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/745001-746000/745001-745100/745003/product_v1_x2.jpg",
+        "brand": "Vild Nord",
+        "price": "329,95 kr."
+    },
+    {
+        "id": 765124,
+        "name": "Ecooking Håndsæbe og Opvaskemiddel Sampak 2 X 500 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653901-654000/653905/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "249,95 kr."
+    },
+    {
+        "id": 801992,
+        "name": "Ole Henriksen Glow Icon Sæt",
+        "image": "https://images.matas.dk/encode/840026663458.jpg",
+        "brand": "Ole Henriksen",
+        "price": "714,95 kr."
+    },
+    {
+        "id": 807225,
+        "name": "Ducray Keracnyl Repair Cream 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/738001-739000/738901-739000/738914/product_v1_x2.jpg",
+        "brand": "Ducray",
+        "price": "177,95 kr."
+    },
+    {
+        "id": 673300,
+        "name": "Pudderdåserne.dk AHA Peeling 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/639001-640000/639201-639300/639210/product_v1_x2.jpg",
+        "brand": "Pudderdåserne.dk",
+        "price": "175,95 kr."
+    },
+    {
+        "id": 809948,
+        "name": "Lancôme Lash Idôle Mascara Gaveæske",
+        "image": "https://images.matas.dk/encode/3614274078350_20231009073543.jpg",
+        "brand": "Lancôme",
+        "price": "264,95 kr."
+    },
+    {
+        "id": 813006,
+        "name": "Rudolph Care Shower Power Limited Edition 400 ml",
+        "image": "https://images.matas.dk/encode/813006_20231025133249.jpg",
+        "brand": "Rudolph Care",
+        "price": "194,95 kr."
+    },
+    {
+        "id": 749942,
+        "name": "Matas Striber Glycerin Håndsæbe 1000 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/505001-506000/505101-505200/505131/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "79,95 kr."
+    },
+    {
+        "id": 781949,
+        "name": "Garnier Vitamin C Serum 30 ml",
+        "image": "https://images.matas.dk/encode/3600542453189__1.jpg",
+        "brand": "Garnier",
+        "price": "89,95 kr."
+    },
+    {
+        "id": 723230,
+        "name": "Matas Striber Anti Wrinkle Dagcreme SPF 15 til Tør Hud Uden Parfume 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/377001-378000/377101-377200/377153/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "79,95 kr."
+    },
+    {
+        "id": 885595,
+        "name": "Biotherm Deo Pure Stick 40 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653301-653400/653373/product_v1_x2.jpg",
+        "brand": "Biotherm",
+        "price": "129,95 kr."
+    },
+    {
+        "id": 816119,
+        "name": "Clinique For Men Skincare Essentials Gaveæske",
+        "image": "https://images.matas.dk/encode/192333180204.jpg",
+        "brand": "Clinique",
+        "price": "284,95 kr."
+    },
+    {
+        "id": 768093,
+        "name": "Ecooking Anti-age Renseskum 200 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653701-653800/653756/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "187,46 kr."
+    },
+    {
+        "id": 785921,
+        "name": "Relevant Naturlig Deodorant Parfumefri",
+        "image": "https://images.matas.dk/encode/785921.jpg",
+        "brand": "Relevant",
+        "price": "95,95 kr."
+    },
+    {
+        "id": 723227,
+        "name": "Matas Striber Firming Serum til Tør Hud Uden Parfume 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/377001-378000/377101-377200/377152/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "84,95 kr."
+    },
+    {
+        "id": 666933,
+        "name": "Lancôme Rénergie Multi-Lift Jour Cream Normal skin 50 ml",
+        "image": "https://images.matas.dk/encode/3614270264900.jpg",
+        "brand": "Lancôme",
+        "price": "809,95 kr."
+    },
+    {
+        "id": 788856,
+        "name": "Plaisir Intensive Anti-Ageing Night Cream 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/763001-764000/763201-763300/763241/product_v1_x2.jpg",
+        "brand": "Plaisir",
+        "price": "169,95 kr."
+    },
+    {
+        "id": 651561,
+        "name": "Origins GinZing Refreshing Scrub Cleanser 150 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/488001-489000/488401-488500/488495/product_v1_x2.jpg",
+        "brand": "Origins",
+        "price": "184,95 kr."
+    },
+    {
+        "id": 769687,
+        "name": "Ole Henriksen Cold Plunge Pore Remedy Moisturizer 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/540001-541000/540801-540900/540831/product_v1_x2.jpg",
+        "brand": "Ole Henriksen",
+        "price": "479,95 kr."
+    },
+    {
+        "id": 790529,
+        "name": "UNIQ Nose Wax Kit",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/656001-657000/656101-656200/656137/product_v1_x2.jpg",
+        "brand": "UNIQ",
+        "price": "119,95 kr."
+    },
+    {
+        "id": 807189,
+        "name": "Avène Soothing Eye Contour Cream 10 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/747001-748000/747101-747200/747164/product_v1_x2.jpg",
+        "brand": "Avène",
+        "price": "157,95 kr."
+    },
+    {
+        "id": 689581,
+        "name": "Philips Ladyshaver HP6341/00",
+        "image": "https://images.matas.dk/Assets_v3/200001-300000/286001-287000/286601-286700/286611/product_v1_x2.jpg",
+        "brand": "Philips",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 816058,
+        "name": "Garnier SkinActive Tissue Mask Gavesæt",
+        "image": "https://images.matas.dk/encode/816058.jpg",
+        "brand": "Garnier",
+        "price": "74,95 kr."
+    },
+    {
+        "id": 783585,
+        "name": "Matas Striber Fodgaveæske Ekstra Pleje 4 dele",
+        "image": "https://images.matas.dk/encode/783585.jpg",
+        "brand": "Matas Striber",
+        "price": "149,95 kr."
+    },
+    {
+        "id": 807081,
+        "name": "A-DERMA Exomega Control Cream 400 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/736001-737000/736201-736300/736262/product_v1_x2.jpg",
+        "brand": "A-DERMA",
+        "price": "284,95 kr."
+    },
+    {
+        "id": 738645,
+        "name": "Clinique Moisture Surge Eye 96H Hydro-Filler Concentrate 15 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/480001-481000/480301-480400/480325/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "324,95 kr."
+    },
+    {
+        "id": 789952,
+        "name": "Ole Henriksen Lets Get Luminous",
+        "image": "https://images.matas.dk/encode/840026661751.jpg",
+        "brand": "Ole Henriksen",
+        "price": "514,95 kr."
+    },
+    {
+        "id": 729305,
+        "name": "Ole Henriksen Glow2OH Dark Spot Toner 190 ml",
+        "image": "https://images.matas.dk/encode/816657026382.jpg",
+        "brand": "Ole Henriksen",
+        "price": "244,95 kr."
+    },
+    {
+        "id": 646747,
+        "name": "Tromborg Lip Cure 15 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/694001-695000/694401-694500/694486/product_v1_x2.jpg",
+        "brand": "Tromborg",
+        "price": "159,95 kr."
+    },
+    {
+        "id": 871775,
+        "name": "CALVIN KLEIN CK One Deodorant Spray 150 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/532001-533000/532201-532300/532211/product_v1_x2.jpg",
+        "brand": "CALVIN KLEIN",
+        "price": "99,95 kr."
+    },
+    {
+        "id": 725581,
+        "name": "Lancôme Rénergie Multi-Glow Cream 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/500001-501000/500001-500100/500097/product_v1_x2.jpg",
+        "brand": "Lancôme",
+        "price": "664,95 kr."
+    },
+    {
+        "id": 783569,
+        "name": "Plaisir Beautiful Glow Day and Night Gaveæske",
+        "image": "https://images.matas.dk/encode/783569.jpg",
+        "brand": "Plaisir",
+        "price": "229,95 kr."
+    },
+    {
+        "id": 721624,
+        "name": "Clarins Hydrating Body-Smoothing Moisture Milk 400 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/738001-739000/738201-738300/738274/product_v1_x2.jpg",
+        "brand": "Clarins",
+        "price": "189,95 kr."
+    },
+    {
+        "id": 789446,
+        "name": "Estée Lauder Advanced Night Repair Eye Gel cream 15 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/657001-658000/657701-657800/657749/product_v1_x2.jpg",
+        "brand": "Estée Lauder",
+        "price": "594,95 kr."
+    },
+    {
+        "id": 735471,
+        "name": "RAZ Skincare Repair 100 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/636001-637000/636501-636600/636579/product_v1_x2.jpg",
+        "brand": "RAZ Skincare",
+        "price": "354,95 kr."
+    },
+    {
+        "id": 757160,
+        "name": "RITUALS The Ritual of Sakura Body Cream 220 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/503001-504000/503101-503200/503191/product_v1_x2.jpg",
+        "brand": "RITUALS",
+        "price": "169,95 kr."
+    },
+    {
+        "id": 788863,
+        "name": "Plaisir Sensitive 24 Hour Cream 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/763001-764000/763201-763300/763248/product_v1_x2.jpg",
+        "brand": "Plaisir",
+        "price": "144,95 kr."
+    },
+    {
+        "id": 788865,
+        "name": "Plaisir 3 in 1 Serum 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/763001-764000/763201-763300/763251/product_v1_x2.jpg",
+        "brand": "Plaisir",
+        "price": "169,95 kr."
+    },
+    {
+        "id": 762584,
+        "name": "Clinique Moisture Surge Intense 72-Hour Lipid-Replenishing Hydrating Face Cream 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/763001-764000/763901-764000/763953/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "179,95 kr."
+    },
+    {
+        "id": 719495,
+        "name": "Sisley L'Integral Anti Age Eye & Lip Contour Cream 15 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/667001-668000/667501-667600/667505/product_v1_x2.jpg",
+        "brand": "Sisley",
+        "price": "1.549 kr."
+    },
+    {
+        "id": 761664,
+        "name": "Ecooking Håndlotion Parfumefri 300 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653701-653800/653733/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "179,95 kr."
+    },
+    {
+        "id": 814508,
+        "name": "Beauté Pacifique Masculinity Gaveæske",
+        "image": "https://images.matas.dk/encode/814508_20231013134408.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "269,95 kr."
+    },
+    {
+        "id": 768215,
+        "name": "Australian Bodycare Sampak Spot Stick 3 x 9 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/613001-614000/613001-613100/613099/product_v1_x2.jpg",
+        "brand": "Australian Bodycare",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 786093,
+        "name": "La Roche-Posay Toleriane Dermallergo Overnight Creme 40 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702201-702300/702259/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "239,95 kr."
+    },
+    {
+        "id": 752476,
+        "name": "MIILD Facial Cream Comforting & Caring 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592701-592800/592715/product_v1_x2.jpg",
+        "brand": "MIILD",
+        "price": "429,95 kr."
+    },
+    {
+        "id": 680628,
+        "name": "Perspirex Roll-on Strong 20 ml 20 ml",
+        "image": "https://images.matas.dk/Assets_v3/200001-300000/217001-218000/217201-217300/217280/product_v1_x2.jpg",
+        "brand": "Perspirex",
+        "price": "73,46 kr."
+    },
+    {
+        "id": 800469,
+        "name": "Biotherm Biomains Hand Cream 100 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/763001-764000/763301-763400/763342/product_v1_x2.jpg",
+        "brand": "Biotherm",
+        "price": "129,95 kr."
+    },
+    {
+        "id": 591704,
+        "name": "Neutral Shower Gel 750 ml",
+        "image": "https://images.matas.dk/encode/591704.jpg",
+        "brand": "Neutral",
+        "price": "24,95 kr."
+    },
+    {
+        "id": 818269,
+        "name": "Raunsborg Hand & Foot Cream Gaveæske",
+        "image": "https://images.matas.dk/encode/818269_1.jpg",
+        "brand": "Raunsborg",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 698881,
+        "name": "Clinique Moisture Surge Hydrating Supercharged Concentrate 48 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/331001-332000/331701-331800/331717/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "334,95 kr."
+    },
+    {
+        "id": 821277,
+        "name": "Dr. Jart+ Cicapair Tiger Grass Color Correcting Treatment 15 ml",
+        "image": "https://images.matas.dk/encode/8809724476168.jpg",
+        "brand": "Dr. Jart+",
+        "price": "134,95 kr."
+    },
+    {
+        "id": 788880,
+        "name": "Plaisir Hyaluronic Acid 2% Booster Serum 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/763001-764000/763201-763300/763267/product_v1_x2.jpg",
+        "brand": "Plaisir",
+        "price": "149,95 kr."
+    },
+    {
+        "id": 730651,
+        "name": "Matas Natur Aloe Vera & E-vitamin Bodyshampoo 400 ml",
+        "image": "https://images.matas.dk/encode/730651.jpg",
+        "brand": "Matas Natur",
+        "price": "79,95 kr."
+    },
+    {
+        "id": 754759,
+        "name": "New Nordic Anti-ageing Cream 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/473001-474000/473101-473200/473184/product_v1_x2.jpg",
+        "brand": "New Nordic",
+        "price": "271,95 kr."
+    },
+    {
+        "id": 803155,
+        "name": "Filorga Time-Filler Eyes 5XP 15 ml",
+        "image": "https://images.matas.dk/encode/3540550012612.jpg",
+        "brand": "Filorga",
+        "price": "454,95 kr."
+    },
+    {
+        "id": 788884,
+        "name": "Plaisir Collagen Booster Serum 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/763001-764000/763201-763300/763270/product_v1_x2.jpg",
+        "brand": "Plaisir",
+        "price": "149,95 kr."
+    },
+    {
+        "id": 781247,
+        "name": "Estée Lauder Revitalizing Supreme+ Youth Power Cream 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/769001-770000/769201-769300/769224/product_v1_x2.jpg",
+        "brand": "Estée Lauder",
+        "price": "974,95 kr."
+    },
+    {
+        "id": 733061,
+        "name": "Biotherm Life Plankton Elixir 30 ml",
+        "image": "https://images.matas.dk/encode/3614272360815_20231012141726.jpg",
+        "brand": "Biotherm",
+        "price": "534,95 kr."
+    },
+    {
+        "id": 752473,
+        "name": "MIILD Facial Serum 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592701-592800/592713/product_v1_x2.jpg",
+        "brand": "MIILD",
+        "price": "519,95 kr."
+    },
+    {
+        "id": 820330,
+        "name": "Ducray Hidrosis Control Roll-On 40 ml",
+        "image": "https://images.matas.dk/encode/3282770389456_1.jpg",
+        "brand": "Ducray",
+        "price": "119,95 kr."
+    },
+    {
+        "id": 675630,
+        "name": "Rudolph Care Instantly Smoothing Serum 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/591001-592000/591001-591100/591048/product_v1_x2.jpg",
+        "brand": "Rudolph Care",
+        "price": "824,95 kr."
+    },
+    {
+        "id": 774054,
+        "name": "Pixi DetoxifEYE Depuffing Eye Patches 60 stk",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/559001-560000/559201-559300/559218/product_v1_x2.jpg",
+        "brand": "Pixi",
+        "price": "217,95 kr."
+    },
+    {
+        "id": 767995,
+        "name": "La Roche-Posay Cicaplast Lips 7,5 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702101-702200/702114/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "77,95 kr."
+    },
+    {
+        "id": 548758,
+        "name": "Locobase Fedtcreme 350 g",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/735001-736000/735501-735600/735511/product_v1_x2.jpg",
+        "brand": "Locobase",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 815916,
+        "name": "Origins The Magic of Ginzing Essentials Gaveæske",
+        "image": "https://images.matas.dk/encode/717334269989.jpg",
+        "brand": "Origins",
+        "price": "494,95 kr."
+    },
+    {
+        "id": 623040,
+        "name": "Rudolph Care Acai Antioxidant Facial Mist 100 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/591001-592000/591001-591100/591022/product_v1_x2.jpg",
+        "brand": "Rudolph Care",
+        "price": "314,95 kr."
+    },
+    {
+        "id": 577624,
+        "name": "Gillette Venus Comfortglide Breeze Barberblade 4 stk.",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/591001-592000/591401-591500/591404/product_v1_x2.jpg",
+        "brand": "Gillette",
+        "price": "115,95 kr."
+    },
+    {
+        "id": 814503,
+        "name": "Beauté Pacifique Superfruit Gaveæske",
+        "image": "https://images.matas.dk/encode/814503.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "369,95 kr."
+    },
+    {
+        "id": 809960,
+        "name": "Biotherm Deo og Showergel Gaveæske",
+        "image": "https://images.matas.dk/encode/3614274102154_20231011122514.jpg",
+        "brand": "Biotherm",
+        "price": "229,95 kr."
+    },
+    {
+        "id": 769160,
+        "name": "Vichy Stress Resist Antiperspirant Deodorant Roll-On 72T 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/522001-523000/522901-523000/522939/product_v1_x2.jpg",
+        "brand": "Vichy",
+        "price": "137,95 kr."
+    },
+    {
+        "id": 664740,
+        "name": "Natur Drogeriet Biotin 100 tabl.",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/561001-562000/561901-562000/561963/product_v1_x2.jpg",
+        "brand": "Natur Drogeriet",
+        "price": "69,95 kr."
+    },
+    {
+        "id": 878875,
+        "name": "Clarins One Step Gentle Exfoliating Cleanser 125 ml",
+        "image": "https://images.matas.dk/Assets_v3/100001-200000/177001-178000/177701-177800/177795/product_v1_x2.jpg",
+        "brand": "Clarins",
+        "price": "274,95 kr."
+    },
+    {
+        "id": 743709,
+        "name": "Matas Striber Start Kit til Uren Hud Uden Parfume 3 dele",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/378001-379000/378301-378400/378339/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "23,98 kr."
+    },
+    {
+        "id": 820284,
+        "name": "Rudolph Care Calming Duo Gaveæske",
+        "image": "https://images.matas.dk/encode/820284.jpg",
+        "brand": "Rudolph Care",
+        "price": "394,95 kr."
+    },
+    {
+        "id": 767952,
+        "name": "La Roche-Posay Toleriane Sensitive Let farvet Dagcreme 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702201-702300/702217/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "177,95 kr."
+    },
+    {
+        "id": 776730,
+        "name": "Clarins Double Serum Eye 20 ml",
+        "image": "https://images.matas.dk/encode/3380810463170_20231011095847.jpg",
+        "brand": "Clarins",
+        "price": "519,95 kr."
+    },
+    {
+        "id": 788966,
+        "name": "Clarins Super Restorative Night Cream Normal 50 ml",
+        "image": "https://images.matas.dk/encode/3666057064548_20231011095745.jpg",
+        "brand": "Clarins",
+        "price": "909,95 kr."
+    },
+    {
+        "id": 779939,
+        "name": "Silk'n LED Face Mask",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/589001-590000/589201-589300/589294/product_v1_x2.jpg",
+        "brand": "Silk'n",
+        "price": "1.299 kr."
+    },
+    {
+        "id": 816095,
+        "name": "Clinique Blockbuster Gaveæske",
+        "image": "https://images.matas.dk/encode/192333180600.jpg",
+        "brand": "Clinique",
+        "price": "789,95 kr."
+    },
+    {
+        "id": 730679,
+        "name": "Matas Natur Aloe Vera & E-vitamin Rensemousse 150 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/378001-379000/378401-378500/378430/product_v1_x2.jpg",
+        "brand": "Matas Natur",
+        "price": "84,95 kr."
+    },
+    {
+        "id": 803435,
+        "name": "DIOR Miss Dior Blooming Bouquet Eau de Toilette 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/720001-721000/720801-720900/720838/product_v1_x2.jpg",
+        "brand": "DIOR",
+        "price": "584,96 kr."
+    },
+    {
+        "id": 818282,
+        "name": "Ecooking Men Skincare Gaveæske",
+        "image": "https://images.matas.dk/encode/818282.jpg",
+        "brand": "Ecooking",
+        "price": "399,95 kr."
+    },
+    {
+        "id": 801331,
+        "name": "Lancôme Renergie Cream 50 ml",
+        "image": "https://images.matas.dk/encode/3614273924061.jpg",
+        "brand": "Lancôme",
+        "price": "859,95 kr."
+    },
+    {
+        "id": 725250,
+        "name": "Dermalogica Skin Smoothing Cream 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/443001-444000/443301-443400/443381/product_v1_x2.jpg",
+        "brand": "Dermalogica",
+        "price": "394,95 kr."
+    },
+    {
+        "id": 906268,
+        "name": "Clinique Anti-Blemish Solutions Clarifying Lotion 200 ml",
+        "image": "https://images.matas.dk/Assets_v3/100001-200000/169001-170000/169601-169700/169700/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "184,95 kr."
+    },
+    {
+        "id": 718034,
+        "name": "Beauté Pacifique Superfruit Night Creme 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/546001-547000/546801-546900/546866/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "399,95 kr."
+    },
+    {
+        "id": 782012,
+        "name": "Shiseido Essential Energy Hydrating Cream 50 ml",
+        "image": "https://images.matas.dk/encode/729238182851.jpg",
+        "brand": "Shiseido",
+        "price": "360,95 kr."
+    },
+    {
+        "id": 908409,
+        "name": "Biotherm Deo Pure Ecocert Roll-On 75 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653301-653400/653379/product_v1_x2.jpg",
+        "brand": "Biotherm",
+        "price": "174,95 kr."
+    },
+    {
+        "id": 750199,
+        "name": "Kiehl’s Ultra Facial Cream SPF 30 50 ml",
+        "image": "https://images.matas.dk/encode/3605971222153.jpg",
+        "brand": "Kiehl’s",
+        "price": "259,95 kr."
+    },
+    {
+        "id": 783565,
+        "name": "Matas Striber Kropspleje Gaveæske",
+        "image": "https://images.matas.dk/encode/783565.jpg",
+        "brand": "Matas Striber",
+        "price": "139,95 kr."
+    },
+    {
+        "id": 960911,
+        "name": "Sunspa Tan in a Can Chocolate 150 ml",
+        "image": "https://images.matas.dk/Assets_v3/200001-300000/271001-272000/271301-271400/271308/product_v1_x2.jpg",
+        "brand": "Sunspa",
+        "price": "179,95 kr."
+    },
+    {
+        "id": 817008,
+        "name": "Shiseido Benefiance Neura Gaveæske",
+        "image": "https://images.matas.dk/encode/3423222094805.jpg",
+        "brand": "Shiseido",
+        "price": "874,95 kr."
+    },
+    {
+        "id": 906269,
+        "name": "Clinique Anti-Blemish Solutions All-over Clearing Treatment 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/100001-200000/169001-170000/169701-169800/169701/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "234,95 kr."
+    },
+    {
+        "id": 629582,
+        "name": "Biotherm Deo Pure Invisible Spray 150 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653301-653400/653384/product_v1_x2.jpg",
+        "brand": "Biotherm",
+        "price": "174,95 kr."
+    },
+    {
+        "id": 763516,
+        "name": "Beauté Pacifique Superfruit Serum 20 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/546001-547000/546801-546900/546868/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "299,95 kr."
+    },
+    {
+        "id": 818285,
+        "name": "RITUALS The Ritual of Sakura Gaveæske - Small",
+        "image": "https://images.matas.dk/encode/818285_1.jpg",
+        "brand": "RITUALS",
+        "price": "219,95 kr."
+    },
+    {
+        "id": 758659,
+        "name": "Ecooking Night Time Treat Sæt 3 x 15 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653601-653700/653697/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "149,95 kr."
+    },
+    {
+        "id": 767943,
+        "name": "La Roche-Posay Skintonic 200 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702101-702200/702118/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "162,95 kr."
+    },
+    {
+        "id": 759627,
+        "name": "The Ordinary Buffet + Copper Peptides 1% 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/469001-470000/469301-469400/469306/product_v1_x2.jpg",
+        "brand": "The Ordinary",
+        "price": "295,95 kr."
+    },
+    {
+        "id": 801262,
+        "name": "Kiehl’s Age-Defying Essentials Set",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/751001-752000/751501-751600/751564/product_v1_x2.jpg",
+        "brand": "Kiehl’s",
+        "price": "714,95 kr."
+    },
+    {
+        "id": 768000,
+        "name": "La Roche-Posay Anthelios UVmune 400 Oil Control SPF 50+ 50 ml",
+        "image": "https://images.matas.dk/encode/3337875546430__1.jpg",
+        "brand": "La Roche-Posay",
+        "price": "172,95 kr."
+    },
+    {
+        "id": 727548,
+        "name": "Matas Striber Intimsæbe Uden Parfume 250 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/399001-400000/399501-399600/399530/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "54,95 kr."
+    },
+    {
+        "id": 782980,
+        "name": "NIVEA Luminous Night Cream 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/608001-609000/608401-608500/608473/product_v1_x2.jpg",
+        "brand": "NIVEA",
+        "price": "170,95 kr."
+    },
+    {
+        "id": 776716,
+        "name": "CeraVe Micellar Cleansing Water 295 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702001-702100/702056/product_v1_x2.jpg",
+        "brand": "CeraVe",
+        "price": "102,95 kr."
+    },
+    {
+        "id": 772331,
+        "name": "Ecooking Young Rensemousse 150 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653701-653800/653776/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "149,95 kr."
+    },
+    {
+        "id": 776713,
+        "name": "CeraVe Moisturising Cream 177 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702001-702100/702081/product_v1_x2.jpg",
+        "brand": "CeraVe",
+        "price": "104,95 kr."
+    },
+    {
+        "id": 902897,
+        "name": "Lancôme Hydra Zen Day Cream 50 ml",
+        "image": "https://images.matas.dk/encode/3605530253338.jpg",
+        "brand": "Lancôme",
+        "price": "469,95 kr."
+    },
+    {
+        "id": 771616,
+        "name": "Sol de Janeiro Brazilian Bum Bum Cream 240 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/536001-537000/536601-536700/536697/product_v1_x2.jpg",
+        "brand": "Sol de Janeiro",
+        "price": "349,95 kr."
+    },
+    {
+        "id": 713569,
+        "name": "Nilens Jord Micellar Cleansing Water 200 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/635001-636000/635301-635400/635360/product_v1_x2.jpg",
+        "brand": "Nilens Jord",
+        "price": "164,95 kr."
+    },
+    {
+        "id": 635133,
+        "name": "Rudolph Care Acai Facial Scrub Mask 100 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/591001-592000/591001-591100/591024/product_v1_x2.jpg",
+        "brand": "Rudolph Care",
+        "price": "314,95 kr."
+    },
+    {
+        "id": 769686,
+        "name": "Ole Henriksen Wrinkle Blur Bakuchiol Eye Gel Creme 18 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/540001-541000/540801-540900/540828/product_v1_x2.jpg",
+        "brand": "Ole Henriksen",
+        "price": "504,95 kr."
+    },
+    {
+        "id": 957600,
+        "name": "Paco Rabanne Lady Million Deodorant Spray 150 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/727001-728000/727201-727300/727231/product_v1_x2.jpg",
+        "brand": "Paco Rabanne",
+        "price": "194,96 kr."
+    },
+    {
+        "id": 762164,
+        "name": "Biotherm Blue Therapy Uplift Night Cream 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/763001-764000/763301-763400/763392/product_v1_x2.jpg",
+        "brand": "Biotherm",
+        "price": "644,95 kr."
+    },
+    {
+        "id": 714858,
+        "name": "Ole Henriksen Balancing Force Oil Control Toner 198 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/504001-505000/504101-504200/504173/product_v1_x2.jpg",
+        "brand": "Ole Henriksen",
+        "price": "244,95 kr."
+    },
+    {
+        "id": 801843,
+        "name": "Clarins Hydra-Essentiel Rich Cream Very Dry Skin 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/738001-739000/738201-738300/738293/product_v1_x2.jpg",
+        "brand": "Clarins",
+        "price": "399,95 kr."
+    },
+    {
+        "id": 792762,
+        "name": "Ecooking Daily Peel 7% 100 ml",
+        "image": "https://images.matas.dk/encode/792762_20231012104414.jpg",
+        "brand": "Ecooking",
+        "price": "247,46 kr."
+    },
+    {
+        "id": 776515,
+        "name": "L'Oréal Paris True Match Nude Plumping Tinted Serum Light 2-3",
+        "image": "https://images.matas.dk/encode/3600523989904__1.jpg",
+        "brand": "L'Oréal Paris",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 958840,
+        "name": "Beauté Pacifique Paradoxe Anti-Age Dagcreme 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/538001-539000/538101-538200/538143/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "479,95 kr."
+    },
+    {
+        "id": 801055,
+        "name": "Biotherm Lait Corporel Bodylotion 400 ml",
+        "image": "https://images.matas.dk/encode/3367729117264_20231012081128.jpg",
+        "brand": "Biotherm",
+        "price": "129,95 kr."
+    },
+    {
+        "id": 776714,
+        "name": "CeraVe Facial Moisturising Lotion 52 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702001-702100/702078/product_v1_x2.jpg",
+        "brand": "CeraVe",
+        "price": "122,95 kr."
+    },
+    {
+        "id": 776719,
+        "name": "CeraVe Foaming Cleanser 236 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702001-702100/702052/product_v1_x2.jpg",
+        "brand": "CeraVe",
+        "price": "92,95 kr."
+    },
+    {
+        "id": 776717,
+        "name": "CeraVe Hydrating Cleanser 473 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/713001-714000/713301-713400/713366/product_v1_x2.jpg",
+        "brand": "CeraVe",
+        "price": "102,95 kr."
+    },
+    {
+        "id": 776712,
+        "name": "CeraVe Moisturising Lotion 473 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702001-702100/702077/product_v1_x2.jpg",
+        "brand": "CeraVe",
+        "price": "134,95 kr."
+    },
+    {
+        "id": 821941,
+        "name": "CeraVe Resurfacing Retinol Serum 30 ml",
+        "image": "https://images.matas.dk/encode/3337875829007.jpg",
+        "brand": "CeraVe",
+        "price": "144,95 kr."
+    },
+    {
+        "id": 815764,
+        "name": "Clarins Instant Light Lip Perfector Gaveæske",
+        "image": "https://images.matas.dk/encode/5709927296026_20231011101313.jpg",
+        "brand": "Clarins",
+        "price": "149,95 kr."
+    },
+    {
+        "id": 739400,
+        "name": "Ecooking Dagcreme Parfumefri 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653601-653700/653653/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "254,96 kr."
+    },
+    {
+        "id": 767977,
+        "name": "La Roche-Posay Effaclar DUO+ ansigtscreme 40 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/713001-714000/713301-713400/713372/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "184,95 kr."
+    },
+    {
+        "id": 767970,
+        "name": "La Roche-Posay Effaclar Micro Peeling Rensegelé 400 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702201-702300/702220/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "207,95 kr."
+    },
+    {
+        "id": 728134,
+        "name": "Matas Striber Carbamid Bodylotion 10% Uden Parfume 400 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/391001-392000/391201-391300/391229/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "74,95 kr."
+    },
+    {
+        "id": 761341,
+        "name": "Matas Striber Kollagen 833 mg + C-vitamin 27 mg 100 tabl.",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/716001-717000/716701-716800/716796/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "137,95 kr."
+    },
+    {
+        "id": 812091,
+        "name": "Shiseido Essential Energy Værtindesæt",
+        "image": "https://images.matas.dk/encode/5709927664993.jpg",
+        "brand": "Shiseido",
+        "price": "119,95 kr."
+    },
+    {
+        "id": 759607,
+        "name": "The Ordinary Glycolic Acid 7% Toning Solution 240 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/469001-470000/469301-469400/469308/product_v1_x2.jpg",
+        "brand": "The Ordinary",
+        "price": "124,95 kr."
+    },
+    {
+        "id": 759614,
+        "name": "The Ordinary Hyaluronic Acid 2% + B5 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/469001-470000/469301-469400/469314/product_v1_x2.jpg",
+        "brand": "The Ordinary",
+        "price": "85,95 kr."
+    },
+    {
+        "id": 759625,
+        "name": "The Ordinary Niacinamide 10% + Zinc 1% 30 ml",
+        "image": "https://images.matas.dk/encode/769915190311.jpg",
+        "brand": "The Ordinary",
+        "price": "69,95 kr."
+    },
+    {
+        "id": 656296,
+        "name": "Biotherm Day Control Roll On 75 ml",
+        "image": "https://images.matas.dk/encode/3605540783023.jpg",
+        "brand": "Biotherm",
+        "price": "109,95 kr."
+    },
+    {
+        "id": 885596,
+        "name": "Biotherm Deo Pure Roll-On 75 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/727001-728000/727401-727500/727495/product_v1_x2.jpg",
+        "brand": "Biotherm",
+        "price": "129,95 kr."
+    },
+    {
+        "id": 791379,
+        "name": "COSRX Advanced Snail 96 Mucin Power Essence 100 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/655001-656000/655401-655500/655412/product_v1_x2.jpg",
+        "brand": "COSRX",
+        "price": "219,95 kr."
+    },
+    {
+        "id": 739402,
+        "name": "Ecooking Natcreme Parfumefri 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653601-653700/653655/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "254,96 kr."
+    },
+    {
+        "id": 739403,
+        "name": "Ecooking Rensegel Parfumefri 200 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653601-653700/653656/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "164,96 kr."
+    },
+    {
+        "id": 750197,
+        "name": "Kiehl’s Ultra Facial Cream 50 ml",
+        "image": "https://images.matas.dk/encode/3605970360757.jpg",
+        "brand": "Kiehl’s",
+        "price": "259,95 kr."
+    },
+    {
+        "id": 786085,
+        "name": "La Roche-Posay Anthelios UVMune Invisible Fluid SPF 50+ 50 ml",
+        "image": "https://images.matas.dk/encode/3337875797597__1.jpg",
+        "brand": "La Roche-Posay",
+        "price": "179,95 kr."
+    },
+    {
+        "id": 906280,
+        "name": "Lancôme Nutrix Royal Body Lotion 400 ml",
+        "image": "https://images.matas.dk/encode/3605530314114.jpg",
+        "brand": "Lancôme",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 761413,
+        "name": "Olívy Baby Care Diaper Change 500 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/596001-597000/596101-596200/596156/product_v1_x2.jpg",
+        "brand": "Olívy",
+        "price": "169,95 kr."
+    },
+    {
+        "id": 818297,
+        "name": "RITUALS The Ritual of Advent Pakkekalender",
+        "image": "https://images.matas.dk/encode/818297_20231106124301.jpg",
+        "brand": "RITUALS",
+        "price": "659,95 kr."
+    },
+    {
+        "id": 779110,
+        "name": "The Ordinary The Balance Set 1 stk",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/578001-579000/578201-578300/578230/product_v1_x2.jpg",
+        "brand": "The Ordinary",
+        "price": "279,95 kr."
+    },
+    {
+        "id": 872280,
+        "name": "Clarins Gentle Care Deo Roll-On 50 ml",
+        "image": "https://images.matas.dk/encode/3666057007477_20231011095848.jpg",
+        "brand": "Clarins",
+        "price": "184,95 kr."
+    },
+    {
+        "id": 646939,
+        "name": "Beauté Pacifique Submersive Serum Paradoxe 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/538001-539000/538101-538200/538141/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "419,95 kr."
+    },
+    {
+        "id": 767984,
+        "name": "La Roche-Posay Hyalu B5 Serum 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702101-702200/702199/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "359,95 kr."
+    },
+    {
+        "id": 901420,
+        "name": "Beauté Pacifique Super3 Booster 100 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/345001-346000/345401-345500/345426/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "609,95 kr."
+    },
+    {
+        "id": 763660,
+        "name": "Ecooking 50+ Serum 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653701-653800/653741/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "322,46 kr."
+    },
+    {
+        "id": 814501,
+        "name": "Beauté Pacifique Paradoxe Gaveæske",
+        "image": "https://images.matas.dk/encode/814501.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "569,95 kr."
+    },
+    {
+        "id": 809967,
+        "name": "Armani Acqua Di Gio Deodorant Spray Gaveæske",
+        "image": "https://images.matas.dk/encode/5414726066830_20231009073543.jpg",
+        "brand": "Armani",
+        "price": "299,95 kr."
+    },
+    {
+        "id": 718791,
+        "name": "Ecooking Super Serum 20 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653601-653700/653604/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "299,96 kr."
+    },
+    {
+        "id": 635650,
+        "name": "Solaray Mega B-Stress 250 kaps.",
+        "image": "https://images.matas.dk/encode/635650.jpg",
+        "brand": "Solaray",
+        "price": "409,95 kr."
+    },
+    {
+        "id": 879516,
+        "name": "Clarins Moisture Rich Body Lotion 400 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/738001-739000/738201-738300/738256/product_v1_x2.jpg",
+        "brand": "Clarins",
+        "price": "299,95 kr."
+    },
+    {
+        "id": 760455,
+        "name": "Vild Nord Collagen GOLD 300 g",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/745001-746000/745001-745100/745007/product_v1_x2.jpg",
+        "brand": "Vild Nord",
+        "price": "399,95 kr."
+    },
+    {
+        "id": 818284,
+        "name": "Ecooking Adventskalender",
+        "image": "https://images.matas.dk/encode/818284_20231106123213.jpg",
+        "brand": "Ecooking",
+        "price": "499,95 kr."
+    },
+    {
+        "id": 898759,
+        "name": "Beauté Pacifique X-tra Dry Skin Fix 120 ml",
+        "image": "https://images.matas.dk/encode/898759.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "229,95 kr."
+    },
+    {
+        "id": 818401,
+        "name": "BARK™DNA Hero Cream 30 ml",
+        "image": "https://images.matas.dk/encode/0712221730788_1.jpg",
+        "brand": "BARK™DNA",
+        "price": "349,95 kr."
+    },
+    {
+        "id": 768237,
+        "name": "Beauté Pacifique Symphonique Hyaluron Serum 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/531001-532000/531201-531300/531277/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "499,95 kr."
+    },
+    {
+        "id": 758082,
+        "name": "Puori CP1 Collagen 300 g",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/491001-492000/491501-491600/491564/product_v1_x2.jpg",
+        "brand": "Puori",
+        "price": "289,95 kr."
+    },
+    {
+        "id": 791295,
+        "name": "Beauté Pacifique Bodylotion Dry skin 500 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/695001-696000/695701-695800/695728/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "299,95 kr."
+    },
+    {
+        "id": 816061,
+        "name": "Clinique Pakkekalender",
+        "image": "https://images.matas.dk/encode/192333180488.jpg",
+        "brand": "Clinique",
+        "price": "1.259 kr."
+    },
+    {
+        "id": 797756,
+        "name": "CeraVe Blemish Control Cleanser 236 ml",
+        "image": "https://images.matas.dk/encode/3337875784054__1.jpg",
+        "brand": "CeraVe",
+        "price": "99,95 kr."
+    },
+    {
+        "id": 809549,
+        "name": "CeraVe Facial Moisturising Lotion SPF30 52 ml",
+        "image": "https://images.matas.dk/encode/809549.jpg",
+        "brand": "CeraVe",
+        "price": "109,95 kr."
+    },
+    {
+        "id": 786083,
+        "name": "CeraVe SA Smoothing Cleanser 236 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702001-702100/702086/product_v1_x2.jpg",
+        "brand": "CeraVe",
+        "price": "104,95 kr."
+    },
+    {
+        "id": 816631,
+        "name": "Elizabeth Arden Eight Hour Cream Gaveæske",
+        "image": "https://images.matas.dk/encode/5709927109180_20231004135724.jpg",
+        "brand": "Elizabeth Arden",
+        "price": "144,95 kr."
+    },
+    {
+        "id": 731144,
+        "name": "Matas Striber Økologiske Vatrondeller Normal 80 stk.",
+        "image": "https://images.matas.dk/encode/731144_20231004063937.jpg",
+        "brand": "Matas Striber",
+        "price": "stk. 16,95 kr."
+    },
+    {
+        "id": 810175,
+        "name": "La Roche-Posay Cicaplast Balm B5+ 100 ml",
+        "image": "https://images.matas.dk/encode/3337875816847.jpg",
+        "brand": "La Roche-Posay",
+        "price": "177,95 kr."
+    },
+    {
+        "id": 711035,
+        "name": "Clinique Take The Day Off™ Makeup Remover 125 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/487001-488000/487401-487500/487499/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "189,95 kr."
+    },
+    {
+        "id": 674413,
+        "name": "Clinique Smart SPF 15 Custom-Repair Day Cream  - Dry/Combination Skin 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/487001-488000/487801-487900/487814/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "574,95 kr."
+    },
+    {
+        "id": 815963,
+        "name": "Elizabeth Arden Eight Hour Cream Gaveæske",
+        "image": "https://images.matas.dk/encode/085805258771_20231004134333.jpg",
+        "brand": "Elizabeth Arden",
+        "price": "209,95 kr."
+    },
+    {
+        "id": 809987,
+        "name": "Prada Paradoxe Gaveæske",
+        "image": "https://images.matas.dk/encode/3614274111972_20231020153211.jpg",
+        "brand": "Prada",
+        "price": "874,95 kr."
+    },
+    {
+        "id": 689226,
+        "name": "Biotherm Lait Corporel Deodorant Roll-On 75 ml",
+        "image": "https://images.matas.dk/encode/3614271548351.jpg",
+        "brand": "Biotherm",
+        "price": "109,95 kr."
+    },
+    {
+        "id": 776720,
+        "name": "CeraVe Moisturising Cream 454 g",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702001-702100/702071/product_v1_x2.jpg",
+        "brand": "CeraVe",
+        "price": "209,95 kr."
+    },
+    {
+        "id": 761340,
+        "name": "Matas Striber Biotin 5 mg 100 tabl.",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592301-592400/592309/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "144,95 kr."
+    },
+    {
+        "id": 741033,
+        "name": "Origins GinZing Ultra-Hydrating Energy-Boosting Face Cream with Ginseng & Coffee 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/488001-489000/488701-488800/488762/product_v1_x2.jpg",
+        "brand": "Origins",
+        "price": "254,95 kr."
+    },
+    {
+        "id": 816434,
+        "name": "Estée Lauder Blockbuster Gaveæske",
+        "image": "https://images.matas.dk/encode/887167665422.jpg",
+        "brand": "Estée Lauder",
+        "price": "1.175 kr."
+    },
+    {
+        "id": 814122,
+        "name": "Nuxe Julekalender 2023",
+        "image": "https://images.matas.dk/encode/814122_20231103122457.jpg",
+        "brand": "Nuxe",
+        "price": "694,95 kr."
+    },
+    {
+        "id": 767989,
+        "name": "La Roche-Posay Lipikar Balm AP+M 400 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/713001-714000/713401-713500/713424/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "274,95 kr."
+    },
+    {
+        "id": 816124,
+        "name": "Clinique Moisture Surge Megastars Gaveæske",
+        "image": "https://images.matas.dk/encode/192333178737.jpg",
+        "brand": "Clinique",
+        "price": "299,95 kr."
+    },
+    {
+        "id": 767979,
+        "name": "La Roche-Posay Effaclar ULTRA KONCENTRERET Serum 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702201-702300/702221/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "334,95 kr."
+    },
+    {
+        "id": 724114,
+        "name": "Ecooking Flydende Håndsæbe 01",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653601-653700/653622/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "169,95 kr."
+    },
+    {
+        "id": 673303,
+        "name": "Pudderdåserne.dk T-Zone Peeling 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/601001-602000/601701-601800/601774/product_v1_x2.jpg",
+        "brand": "Pudderdåserne.dk",
+        "price": "175,95 kr."
+    },
+    {
+        "id": 771122,
+        "name": "Ecooking Gaveæske Spa-dag Showergel 300 ml. & Bodylotion 300 ml.",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653701-653800/653772/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "187,46 kr."
+    },
+    {
+        "id": 890740,
+        "name": "Beauté Pacifique Cleansing Foam 150 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/551001-552000/551001-551100/551027/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "189,95 kr."
+    },
+    {
+        "id": 712571,
+        "name": "Clinique All About Eyes Eye Cream 15 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/735001-736000/735801-735900/735896/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "294,95 kr."
+    },
+    {
+        "id": 733599,
+        "name": "Ecooking Anti-Rødme Creme 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653601-653700/653647/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "254,96 kr."
+    },
+    {
+        "id": 818283,
+        "name": "Ecooking Young Routine - Step 1-2-3 Gaveæske",
+        "image": "https://images.matas.dk/encode/818283.jpg",
+        "brand": "Ecooking",
+        "price": "299,95 kr."
+    },
+    {
+        "id": 852938,
+        "name": "Cacharel Noa Deodorant 150 ml",
+        "image": "https://images.matas.dk/encode/3360373016372.jpg",
+        "brand": "Cacharel",
+        "price": "134,96 kr."
+    },
+    {
+        "id": 718784,
+        "name": "Ecooking Dagcreme 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653501-653600/653592/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "254,96 kr."
+    },
+    {
+        "id": 902636,
+        "name": "Clinique All About Eyes Rich Eye Cream 15 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/735001-736000/735901-736000/735901/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "294,95 kr."
+    },
+    {
+        "id": 742886,
+        "name": "Ecooking Bodylotion 300 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653601-653700/653662/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "187,46 kr."
+    },
+    {
+        "id": 792765,
+        "name": "Ecooking A-Vitamin 0,30% kapsler 60 stk",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/727001-728000/727301-727400/727316/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "299,96 kr."
+    },
+    {
+        "id": 782031,
+        "name": "Ole Henriksen TRUTH Banana Bright+ Eye 15 ml",
+        "image": "https://images.matas.dk/encode/840026657693.jpg",
+        "brand": "Ole Henriksen",
+        "price": "409,95 kr."
+    },
+    {
+        "id": 746618,
+        "name": "Australian Bodycare Sampak Ansigtspleje",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/613001-614000/613001-613100/613093/product_v1_x2.jpg",
+        "brand": "Australian Bodycare",
+        "price": "399,95 kr."
+    },
+    {
+        "id": 759955,
+        "name": "Ecooking C-Vitamin Serum 20 ml.",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653701-653800/653712/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "299,96 kr."
+    },
+    {
+        "id": 818276,
+        "name": "Ecooking Hudpleje Gaveæske",
+        "image": "https://images.matas.dk/encode/818276.jpg",
+        "brand": "Ecooking",
+        "price": "499,95 kr."
+    },
+    {
+        "id": 731145,
+        "name": "Matas Striber Økologiske Vatrondeller Maxi 40 stk.",
+        "image": "https://images.matas.dk/encode/731145.jpg",
+        "brand": "Matas Striber",
+        "price": "stk. 16,95 kr."
+    },
+    {
+        "id": 713158,
+        "name": "Rudolph Care A Hint of Summer 50 ml",
+        "image": "https://images.matas.dk/encode/5710111002927.jpg",
+        "brand": "Rudolph Care",
+        "price": "364,95 kr."
+    },
+    {
+        "id": 794040,
+        "name": "La Roche-Posay Cicaplast Balm B5+ 40 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702201-702300/702264/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "99,95 kr."
+    },
+    {
+        "id": 811781,
+        "name": "b.tan Glow Your Own Way Clear Tanning Gel 473 ml",
+        "image": "https://images.matas.dk/encode/811781_20231026133205.jpg",
+        "brand": "b.tan",
+        "price": "129,95 kr."
+    },
+    {
+        "id": 992568,
+        "name": "Clinique Redness Solutions Daily Relief Face Cream 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/100001-200000/169001-170000/169601-169700/169672/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "484,95 kr."
+    },
+    {
+        "id": 818277,
+        "name": "Ecooking Hudpleje Parfumefri Gaveæske",
+        "image": "https://images.matas.dk/encode/818277.jpg",
+        "brand": "Ecooking",
+        "price": "499,95 kr."
+    },
+    {
+        "id": 709822,
+        "name": "Elizabeth Arden Eight Hour Lip Protectant Stick SPF 15 Transparent",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/707001-708000/707201-707300/707229/product_v1_x2.jpg",
+        "brand": "Elizabeth Arden",
+        "price": "109,95 kr."
+    },
+    {
+        "id": 767950,
+        "name": "La Roche-Posay Toleriane Sensitive 40 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702101-702200/702193/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "169,95 kr."
+    },
+    {
+        "id": 959243,
+        "name": "Estée Lauder DayWear Sheer Tint Moisturizer SPF 15 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/735001-736000/735801-735900/735834/product_v1_x2.jpg",
+        "brand": "Estée Lauder",
+        "price": "534,95 kr."
+    },
+    {
+        "id": 745406,
+        "name": "Nilens Jord Hand Soap & Hand Lotion Sæt 2 x 300 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/591001-592000/591801-591900/591898/product_v1_x2.jpg",
+        "brand": "Nilens Jord",
+        "price": "149,95 kr."
+    },
+    {
+        "id": 805482,
+        "name": "Matas Striber Hair & Nails Vitamins Gummies 60 stk.",
+        "image": "https://images.matas.dk/encode/805482.jpg",
+        "brand": "Matas Striber",
+        "price": "149,95 kr."
+    },
+    {
+        "id": 745941,
+        "name": "Ecooking Selvbruner Drops 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653601-653700/653670/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "179,96 kr."
+    },
+    {
+        "id": 812065,
+        "name": "Hugo Boss The Scent Gaveæske",
+        "image": "https://images.matas.dk/encode/5709927183166.jpg",
+        "brand": "Hugo Boss",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 629580,
+        "name": "Biotherm Deo Pure Invisible Roll-On 75 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653301-653400/653383/product_v1_x2.jpg",
+        "brand": "Biotherm",
+        "price": "129,95 kr."
+    },
+    {
+        "id": 776587,
+        "name": "Beauté Pacifique Symphonique Eye Zone gel 15 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/565001-566000/565901-566000/565908/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "399,95 kr."
+    },
+    {
+        "id": 730248,
+        "name": "Beauté Pacifique Paradoxe Eye Creme 15 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/538001-539000/538101-538200/538142/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "279,95 kr."
+    },
+    {
+        "id": 885137,
+        "name": "Biotherm Day Control Roll-on 75 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/622001-623000/622601-622700/622687/product_v1_x2.jpg",
+        "brand": "Biotherm",
+        "price": "129,95 kr."
+    },
+    {
+        "id": 674416,
+        "name": "Clinique Smart Night Custom-Repair Night Cream - Dry/Combination Skin 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/303001-304000/303801-303900/303852/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "594,95 kr."
+    },
+    {
+        "id": 623041,
+        "name": "Rudolph Care Acai Anti-Stress Facial Cream 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/591001-592000/591001-591100/591020/product_v1_x2.jpg",
+        "brand": "Rudolph Care",
+        "price": "524,95 kr."
+    },
+    {
+        "id": 816442,
+        "name": "Estée Lauder Eyes After Dark Gaveæske",
+        "image": "https://images.matas.dk/encode/887167665729.jpg",
+        "brand": "Estée Lauder",
+        "price": "314,95 kr."
+    },
+    {
+        "id": 768236,
+        "name": "Beauté Pacifique Symphonique Night Time 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/531001-532000/531201-531300/531276/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "749,95 kr."
+    },
+    {
+        "id": 756120,
+        "name": "DIOR Addict Lip Glow Oil 001 Pink",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/598001-599000/598301-598400/598320/product_v1_x2.jpg",
+        "brand": "DIOR",
+        "price": "247,46 kr."
+    },
+    {
+        "id": 890741,
+        "name": "Beauté Pacifique Enriched Moisturizing Daycreme Dry Skin Jar 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/577001-578000/577401-577500/577424/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "169,95 kr."
+    },
+    {
+        "id": 745302,
+        "name": "Ecooking Natcreme til Fødder 100 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653601-653700/653666/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "187,46 kr."
+    },
+    {
+        "id": 699187,
+        "name": "Origins GinZing SPF 40 Energy-Boosting Tinted Moisturizing Face Cream Light to Medium Skintone",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/488001-489000/488501-488600/488523/product_v1_x2.jpg",
+        "brand": "Origins",
+        "price": "309,95 kr."
+    },
+    {
+        "id": 801033,
+        "name": "Lancôme Roll-on Deodorant 50 ml",
+        "image": "https://images.matas.dk/encode/3605530931663.jpg",
+        "brand": "Lancôme",
+        "price": "194,95 kr."
+    },
+    {
+        "id": 797755,
+        "name": "CeraVe Blemish Control Gel 40 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702001-702100/702090/product_v1_x2.jpg",
+        "brand": "CeraVe",
+        "price": "109,95 kr."
+    },
+    {
+        "id": 768235,
+        "name": "Beauté Pacifique Symphonique Day Time 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/531001-532000/531201-531300/531275/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "699,95 kr."
+    },
+    {
+        "id": 725438,
+        "name": "Matas Striber Vandfast Øjenmakeupfjerner til Alle Hudtyper Uden Parfume 125 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/615001-616000/615801-615900/615809/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "44,95 kr."
+    },
+    {
+        "id": 801145,
+        "name": "Cacharel Anaïs Anaïs Deodorant Spray 150 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/626001-627000/626701-626800/626717/product_v1_x2.jpg",
+        "brand": "Cacharel",
+        "price": "134,96 kr."
+    },
+    {
+        "id": 800064,
+        "name": "Lancôme Crème Deodorant 50 ml",
+        "image": "https://images.matas.dk/encode/3147758014709.jpg",
+        "brand": "Lancôme",
+        "price": "194,95 kr."
+    },
+    {
+        "id": 728221,
+        "name": "Matas Striber Glycerin Håndcreme Uden Parfume 200 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/549001-550000/549601-549700/549698/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "54,95 kr."
+    },
+    {
+        "id": 775792,
+        "name": "Ecooking Multiolie Parfumefri 300 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653801-653900/653883/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "262,46 kr."
+    },
+    {
+        "id": 804182,
+        "name": "Ecooking Dagcreme SPF 20 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/737001-738000/737701-737800/737746/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "284,96 kr."
+    },
+    {
+        "id": 791892,
+        "name": "The Ordinary Multi-Peptide Lash and Brow Serum 5 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/675001-676000/675101-675200/675122/product_v1_x2.jpg",
+        "brand": "The Ordinary",
+        "price": "138,95 kr."
+    },
+    {
+        "id": 668665,
+        "name": "Rudolph Care Acai Anti-ageing Facial Moisturizer 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/591001-592000/591001-591100/591037/product_v1_x2.jpg",
+        "brand": "Rudolph Care",
+        "price": "624,95 kr."
+    },
+    {
+        "id": 780660,
+        "name": "Biotherm Aquapower Advanced Gel Jumbo 100 ml",
+        "image": "https://images.matas.dk/encode/3614272975040_1.jpg",
+        "brand": "Biotherm",
+        "price": "329,95 kr."
+    },
+    {
+        "id": 909977,
+        "name": "Beauté Pacifique Puffy Eyes Gel 15 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/551001-552000/551001-551100/551040/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "319,95 kr."
+    },
+    {
+        "id": 815915,
+        "name": "Origins Gifts for Me-Time Five Mini Masking Essentials Gaveæske",
+        "image": "https://images.matas.dk/encode/717334270121.jpg",
+        "brand": "Origins",
+        "price": "174,95 kr."
+    },
+    {
+        "id": 778748,
+        "name": "Nilens Jord Body Lotion & Body Wash Værtindesæt",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/590001-591000/590201-590300/590295/product_v1_x2.jpg",
+        "brand": "Nilens Jord",
+        "price": "149,95 kr."
+    },
+    {
+        "id": 789175,
+        "name": "Clinique Smart Clinical Repair Wrinkle Face Cream 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/735001-736000/735901-736000/735932/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "594,95 kr."
+    },
+    {
+        "id": 651954,
+        "name": "Rudolph Care Gentle Cleansing Foam 150 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/591001-592000/591001-591100/591027/product_v1_x2.jpg",
+        "brand": "Rudolph Care",
+        "price": "284,95 kr."
+    },
+    {
+        "id": 909996,
+        "name": "Clinique Deep Comfort Body Lotion 400 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/741001-742000/741001-741100/741002/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "139,95 kr."
+    },
+    {
+        "id": 895502,
+        "name": "Clinique Liquid Facial Soap Mild  Cleanser - Very Dry to Combination Skin 200 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/511001-512000/511901-512000/511967/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "179,95 kr."
+    },
+    {
+        "id": 730691,
+        "name": "Matas Natur Aloe Vera & E-vitamin 24H Anti-Age Ansigtscreme 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/355001-356000/355901-356000/355987/product_v1_x2.jpg",
+        "brand": "Matas Natur",
+        "price": "144,95 kr."
+    },
+    {
+        "id": 812087,
+        "name": "CALVIN KLEIN CK One Gaveæske 15 ml",
+        "image": "https://images.matas.dk/encode/5709927552436_20231011101313.jpg",
+        "brand": "CALVIN KLEIN",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 797915,
+        "name": "COSRX Master Patch Intensive 36 stk",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/688001-689000/688901-689000/688908/product_v1_x2.jpg",
+        "brand": "COSRX",
+        "price": "144,95 kr."
+    },
+    {
+        "id": 724111,
+        "name": "Ecooking Lermaske 100 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653601-653700/653615/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "172,46 kr."
+    },
+    {
+        "id": 724145,
+        "name": "Pudderdåserne.dk Niacinamid 10% Serum 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/601001-602000/601701-601800/601771/product_v1_x2.jpg",
+        "brand": "Pudderdåserne.dk",
+        "price": "175,95 kr."
+    },
+    {
+        "id": 780006,
+        "name": "Ole Henriksen STRENGTH Peptide Boost Moisturizer 50 ml",
+        "image": "https://images.matas.dk/encode/840026652919_20231004125245.jpg",
+        "brand": "Ole Henriksen",
+        "price": "514,95 kr."
+    },
+    {
+        "id": 733921,
+        "name": "Origins Drink Up Intensive Overnight Mask 75 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/488001-489000/488701-488800/488704/product_v1_x2.jpg",
+        "brand": "Origins",
+        "price": "219,95 kr."
+    },
+    {
+        "id": 749972,
+        "name": "Pudderdåserne.dk Alt I En Hyaluronsyre 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/601001-602000/601701-601800/601772/product_v1_x2.jpg",
+        "brand": "Pudderdåserne.dk",
+        "price": "175,95 kr."
+    },
+    {
+        "id": 692386,
+        "name": "Beauté Pacifique One Step Cleansing & Moisturizing Water 200 ml",
+        "image": "https://images.matas.dk/Assets_v3/200001-300000/264001-265000/264501-264600/264594/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 755376,
+        "name": "Ecooking Rensescrub 125 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653601-653700/653687/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "172,46 kr."
+    },
+    {
+        "id": 673299,
+        "name": "Pudderdåserne.dk Anti-age Ansigtscreme 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/639001-640000/639201-639300/639228/product_v1_x2.jpg",
+        "brand": "Pudderdåserne.dk",
+        "price": "183,95 kr."
+    },
+    {
+        "id": 769170,
+        "name": "Vichy Minéral 89 Booster 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/713001-714000/713301-713400/713396/product_v1_x2.jpg",
+        "brand": "Vichy",
+        "price": "219,95 kr."
+    },
+    {
+        "id": 890745,
+        "name": "Beauté Pacifique Crème Métamorphique A-Vitamin Anti-Wrinkle Creme 115 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/345001-346000/345401-345500/345423/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "579,95 kr."
+    },
+    {
+        "id": 723716,
+        "name": "Biotherm Blue Therapy Uplift Day Cream 50 ml",
+        "image": "https://images.matas.dk/encode/3614271844804_20231012080511.jpg",
+        "brand": "Biotherm",
+        "price": "624,95 kr."
+    },
+    {
+        "id": 753724,
+        "name": "Ole Henriksen Banana Bright Vitamin C Serum 30 ml",
+        "image": "https://images.matas.dk/encode/840026641609.jpg",
+        "brand": "Ole Henriksen",
+        "price": "649,95 kr."
+    },
+    {
+        "id": 809970,
+        "name": "Armani Code Eau de Toilette Gaveæske",
+        "image": "https://images.matas.dk/encode/5414726066823_20231009073543.jpg",
+        "brand": "Armani",
+        "price": "654,95 kr."
+    },
+    {
+        "id": 791891,
+        "name": "The Ordinary Salicylic Acid 2% Solution 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/675001-676000/675101-675200/675128/product_v1_x2.jpg",
+        "brand": "The Ordinary",
+        "price": "62,95 kr."
+    },
+    {
+        "id": 718787,
+        "name": "Ecooking Peel Maske 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653501-653600/653599/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "247,46 kr."
+    },
+    {
+        "id": 778849,
+        "name": "La Roche-Posay Pure Vitamin C10 Serum 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/585001-586000/585801-585900/585834/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "339,95 kr."
+    },
+    {
+        "id": 800241,
+        "name": "Clinique Smart Ageless Skincare Set",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/736001-737000/736501-736600/736580/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "294,95 kr."
+    },
+    {
+        "id": 816188,
+        "name": "Tromborg Deluxe Face Cream & Night Cream Gaveæske",
+        "image": "https://images.matas.dk/encode/5704904888201_20231012115050.jpg",
+        "brand": "Tromborg",
+        "price": "539,95 kr."
+    },
+    {
+        "id": 704245,
+        "name": "Australian Bodycare Spot Stick 9 ml",
+        "image": "https://images.matas.dk/encode/704245.jpg",
+        "brand": "Australian Bodycare",
+        "price": "79,95 kr."
+    },
+    {
+        "id": 804438,
+        "name": "Matas Striber Hyaluron Bodylotion 400 ml",
+        "image": "https://images.matas.dk/encode/804438_20231009073919.jpg",
+        "brand": "Matas Striber",
+        "price": "69,95 kr."
+    },
+    {
+        "id": 725440,
+        "name": "Matas Striber Øjenmakeupfjerner til Alle Hudtyper Uden Parfume 125 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/659001-660000/659301-659400/659398/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "44,95 kr."
+    },
+    {
+        "id": 658050,
+        "name": "Raunsborg Nordic Hand Cream 200 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/509001-510000/509001-509100/509075/product_v1_x2.jpg",
+        "brand": "Raunsborg",
+        "price": "164,96 kr."
+    },
+    {
+        "id": 629472,
+        "name": "Beauté Pacifique A-Vitamin Eyecreme Pump 15 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/551001-552000/551001-551100/551018/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 809947,
+        "name": "Lancôme Absolue Gaveæske",
+        "image": "https://images.matas.dk/encode/3614274078145_20231011122514.jpg",
+        "brand": "Lancôme",
+        "price": "1.929 kr."
+    },
+    {
+        "id": 753014,
+        "name": "Ole Henriksen Truth C-Rush Brightening Double Creme 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/504001-505000/504101-504200/504158/product_v1_x2.jpg",
+        "brand": "Ole Henriksen",
+        "price": "564,95 kr."
+    },
+    {
+        "id": 705980,
+        "name": "Clarins Hand And Nail Treatment Cream 100 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/708001-709000/708601-708700/708691/product_v1_x2.jpg",
+        "brand": "Clarins",
+        "price": "209,95 kr."
+    },
+    {
+        "id": 759612,
+        "name": "The Ordinary AHA 30% + BHA 2% Peeling Solution 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/469001-470000/469301-469400/469337/product_v1_x2.jpg",
+        "brand": "The Ordinary",
+        "price": "91,95 kr."
+    },
+    {
+        "id": 816467,
+        "name": "Estée Lauder Supreme Skincare Gaveæske",
+        "image": "https://images.matas.dk/encode/887167667068.jpg",
+        "brand": "Estée Lauder",
+        "price": "974,95 kr."
+    },
+    {
+        "id": 629402,
+        "name": "Clarins Instant Eye Makeup Remover 125 ml",
+        "image": "https://images.matas.dk/encode/3380811183107_20231011095745.jpg",
+        "brand": "Clarins",
+        "price": "219,95 kr."
+    },
+    {
+        "id": 728917,
+        "name": "Matas Striber Mild Micellar Water til Sensitiv Hud Uden Parfume 500 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/615001-616000/615801-615900/615816/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "74,95 kr."
+    },
+    {
+        "id": 890748,
+        "name": "Beauté Pacifique A-Vitamin Eyecreme Jar 15 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/577001-578000/577401-577500/577426/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 814855,
+        "name": "Jean Paul Gaultier Le Male Gaveæske",
+        "image": "https://images.matas.dk/encode/8435415085342.jpg",
+        "brand": "Jean Paul Gaultier",
+        "price": "654,95 kr."
+    },
+    {
+        "id": 624985,
+        "name": "Weleda Skin Food For Face Or Body Skin Food 75 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/594001-595000/594901-595000/594947/product_v1_x2.jpg",
+        "brand": "Weleda",
+        "price": "114,95 kr."
+    },
+    {
+        "id": 718785,
+        "name": "Ecooking Natcreme 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653501-653600/653595/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "254,96 kr."
+    },
+    {
+        "id": 767976,
+        "name": "La Roche-Posay Effaclar MAT ansigtscreme 40 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702101-702200/702141/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "172,95 kr."
+    },
+    {
+        "id": 818273,
+        "name": "NIVEA Luminous 630 Anti-age & Spot Serum 30 ml",
+        "image": "https://images.matas.dk/encode/818273.jpg",
+        "brand": "NIVEA",
+        "price": "207,95 kr."
+    },
+    {
+        "id": 728138,
+        "name": "Matas Striber Fugtigheds Bodylotion Uden Parfume 400 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/391001-392000/391201-391300/391233/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "74,95 kr."
+    },
+    {
+        "id": 766857,
+        "name": "Biotherm Aquasource Hyalu Plump 75 ml",
+        "image": "https://images.matas.dk/encode/3614273393492_20231010143331.jpg",
+        "brand": "Biotherm",
+        "price": "319,95 kr."
+    },
+    {
+        "id": 780645,
+        "name": "Lancôme Rénergie H.C.F. Triple Serum 50 ml",
+        "image": "https://images.matas.dk/encode/3614272860377.jpg",
+        "brand": "Lancôme",
+        "price": "1.049 kr."
+    },
+    {
+        "id": 730648,
+        "name": "Matas Natur Aloe Vera & E-vitamin 24H Ansigtscreme 50 ml",
+        "image": "https://images.matas.dk/encode/730648.jpg",
+        "brand": "Matas Natur",
+        "price": "109,95 kr."
+    },
+    {
+        "id": 924484,
+        "name": "Origins VitaZing SPF15 Energy-Boosting Moisturizing Face Cream Light to Medium",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/488001-489000/488801-488900/488824/product_v1_x2.jpg",
+        "brand": "Origins",
+        "price": "309,95 kr."
+    },
+    {
+        "id": 657639,
+        "name": "Matas Striber Men Deo Stick til Normal Hud 75 ml",
+        "image": "https://images.matas.dk/Assets_v3/200001-300000/245001-246000/245701-245800/245712/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "59,95 kr."
+    },
+    {
+        "id": 672059,
+        "name": "Hugo Boss The Scent Deodorant Spray for Men 150 ml",
+        "image": "https://images.matas.dk/encode/737052992785_20231026130933.jpg",
+        "brand": "Hugo Boss",
+        "price": "99,95 kr."
+    },
+    {
+        "id": 767717,
+        "name": "Clinique Moisture Surge 100-Hour Auto-Replenishing Moisturizing Face Cream 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/763001-764000/763901-764000/763960/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "179,95 kr."
+    },
+    {
+        "id": 775791,
+        "name": "Ecooking Multiolie 300 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653801-653900/653882/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "262,46 kr."
+    },
+    {
+        "id": 950178,
+        "name": "Beauté Pacifique Super3 Booster 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/200001-300000/204001-205000/204401-204500/204451/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "429,95 kr."
+    },
+    {
+        "id": 810564,
+        "name": "Ole Henriksen Let's Get Luminous + Holiday Gaveæske",
+        "image": "https://images.matas.dk/encode/840026668583.jpg",
+        "brand": "Ole Henriksen",
+        "price": "499,95 kr."
+    },
+    {
+        "id": 814611,
+        "name": "Biotherm Oil Therapy Baume Corps body lotion 400 ml",
+        "image": "https://images.matas.dk/encode/3614274042870_20231012081128.jpg",
+        "brand": "Biotherm",
+        "price": "149,95 kr."
+    },
+    {
+        "id": 623078,
+        "name": "Embryolisse Lait Creme Concentre Fugtighedscreme 75 ml",
+        "image": "https://images.matas.dk/encode/623078.jpg",
+        "brand": "Embryolisse",
+        "price": "209,95 kr."
+    },
+    {
+        "id": 818278,
+        "name": "Ecooking 50+ Gaveæske",
+        "image": "https://images.matas.dk/encode/818278.jpg",
+        "brand": "Ecooking",
+        "price": "499,95 kr."
+    },
+    {
+        "id": 646757,
+        "name": "Tromborg Aroma Body Lotion 200 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/696001-697000/696201-696300/696233/product_v1_x2.jpg",
+        "brand": "Tromborg",
+        "price": "459,95 kr."
+    },
+    {
+        "id": 761306,
+        "name": "Matas Striber Zink 8 mg 100 tabl.",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592301-592400/592385/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "67,95 kr."
+    },
+    {
+        "id": 624985,
+        "name": "Weleda Skin Food For Face Or Body Skin Food 75 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/594001-595000/594901-595000/594947/product_v1_x2.jpg",
+        "brand": "Weleda",
+        "price": "114,95 kr."
+    },
+    {
+        "id": 800962,
+        "name": "Pudderdåserne.dk Azelainsyre 10% 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/718001-719000/718601-718700/718683/product_v1_x2.jpg",
+        "brand": "Pudderdåserne.dk",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 801329,
+        "name": "Lancôme Rénergie H.C.F. Triple Serum Skincare Set",
+        "image": "https://images.matas.dk/encode/3614273942249.jpg",
+        "brand": "Lancôme",
+        "price": "1.029 kr."
+    },
+    {
+        "id": 730247,
+        "name": "Beauté Pacifique Paradoxe Night Creme 100 ml",
+        "image": "https://images.matas.dk/encode/730247.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "569,95 kr."
+    },
+    {
+        "id": 818273,
+        "name": "NIVEA Luminous 630 Anti-age & Spot Serum 30 ml",
+        "image": "https://images.matas.dk/encode/818273.jpg",
+        "brand": "NIVEA",
+        "price": "207,95 kr."
+    },
+    {
+        "id": 991574,
+        "name": "Beauté Pacifique Enriched Moisturizing Daycreme Dry Skin 50 ml",
+        "image": "https://images.matas.dk/encode/991574.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "169,95 kr."
+    },
+    {
+        "id": 730648,
+        "name": "Matas Natur Aloe Vera & E-vitamin 24H Ansigtscreme 50 ml",
+        "image": "https://images.matas.dk/encode/730648.jpg",
+        "brand": "Matas Natur",
+        "price": "109,95 kr."
+    },
+    {
+        "id": 657639,
+        "name": "Matas Striber Men Deo Stick til Normal Hud 75 ml",
+        "image": "https://images.matas.dk/Assets_v3/200001-300000/245001-246000/245701-245800/245712/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "59,95 kr."
+    },
+    {
+        "id": 672059,
+        "name": "Hugo Boss The Scent Deodorant Spray for Men 150 ml",
+        "image": "https://images.matas.dk/encode/737052992785_20231026130933.jpg",
+        "brand": "Hugo Boss",
+        "price": "99,95 kr."
+    },
+    {
+        "id": 752265,
+        "name": "Njord Beard Starter Kit",
+        "image": "https://images.matas.dk/encode/752265.jpg",
+        "brand": "Njord",
+        "price": "349,95 kr."
+    },
+    {
+        "id": 780645,
+        "name": "Lancôme Rénergie H.C.F. Triple Serum 50 ml",
+        "image": "https://images.matas.dk/encode/3614272860377.jpg",
+        "brand": "Lancôme",
+        "price": "1.049 kr."
+    },
+    {
+        "id": 814504,
+        "name": "Beauté Pacifique Værtindesæt",
+        "image": "https://images.matas.dk/encode/814504.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "179,95 kr."
+    },
+    {
+        "id": 797418,
+        "name": "Matas Striber Kollagenpulver + C vitamin 80 mg 150 g",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/736001-737000/736001-736100/736051/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "229,95 kr."
+    },
+    {
+        "id": 767717,
+        "name": "Clinique Moisture Surge 100-Hour Auto-Replenishing Moisturizing Face Cream 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/763001-764000/763901-764000/763960/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "179,95 kr."
+    },
+    {
+        "id": 814862,
+        "name": "Paco Rabanne 1 Million Gaveæske",
+        "image": "https://images.matas.dk/encode/3349668632350.jpg",
+        "brand": "Paco Rabanne",
+        "price": "644,95 kr."
+    },
+    {
+        "id": 570113,
+        "name": "Imedeen Prime Renewal 50+ 120 tabl.",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/602001-603000/602501-602600/602537/product_v1_x2.jpg",
+        "brand": "Imedeen",
+        "price": "548,95 kr."
+    },
+    {
+        "id": 773008,
+        "name": "Kraes Glade kinder 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/763001-764000/763501-763600/763525/product_v1_x2.jpg",
+        "brand": "Kraes",
+        "price": "124 kr."
+    },
+    {
+        "id": 772549,
+        "name": "Ecooking Farvet Dagcreme 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653701-653800/653791/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 766857,
+        "name": "Biotherm Aquasource Hyalu Plump 75 ml",
+        "image": "https://images.matas.dk/encode/3614273393492_20231010143331.jpg",
+        "brand": "Biotherm",
+        "price": "319,95 kr."
+    },
+    {
+        "id": 761544,
+        "name": "Meraki Northern Dawn Gaveæske 2 x 275 ml",
+        "image": "https://images.matas.dk/encode/5707644715769_20231024192608.jpg",
+        "brand": "Meraki",
+        "price": "149,95 kr."
+    },
+    {
+        "id": 718792,
+        "name": "Ecooking Acne Serum 20 ml",
+        "image": "https://images.matas.dk/encode/718792.jpg",
+        "brand": "Ecooking",
+        "price": "299,96 kr."
+    },
+    {
+        "id": 646757,
+        "name": "Tromborg Aroma Body Lotion 200 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/696001-697000/696201-696300/696233/product_v1_x2.jpg",
+        "brand": "Tromborg",
+        "price": "459,95 kr."
+    },
+    {
+        "id": 786087,
+        "name": "La Roche-Posay Effaclar H Iso-Biome Creme 40 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702201-702300/702244/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "162,95 kr."
+    },
+    {
+        "id": 788857,
+        "name": "Plaisir Intensive Anti-Ageing Day Cream 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/763001-764000/763201-763300/763242/product_v1_x2.jpg",
+        "brand": "Plaisir",
+        "price": "169,95 kr."
+    },
+    {
+        "id": 812064,
+        "name": "Hugo Boss The Scent Eau de Toilette Gaveæske",
+        "image": "https://images.matas.dk/encode/5709927183227.jpg",
+        "brand": "Hugo Boss",
+        "price": "664,95 kr."
+    },
+    {
+        "id": 769161,
+        "name": "Vichy Anti-trace Antiperspirant Deodorant Roll-On 48T 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702401-702500/702420/product_v1_x2.jpg",
+        "brand": "Vichy",
+        "price": "137,95 kr."
+    },
+    {
+        "id": 771677,
+        "name": "Lancôme Hydra Zen Gel 30 ml",
+        "image": "https://images.matas.dk/encode/3614272749788.jpg",
+        "brand": "Lancôme",
+        "price": "169,95 kr."
+    },
+    {
+        "id": 759631,
+        "name": "The Ordinary Caffeine Solution 5% + EGCG 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/469001-470000/469301-469400/469309/product_v1_x2.jpg",
+        "brand": "The Ordinary",
+        "price": "85,95 kr."
+    },
+    {
+        "id": 761332,
+        "name": "Matas Striber Silica Plus 300 tabl.",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592401-592500/592417/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "172,95 kr."
+    },
+    {
+        "id": 753013,
+        "name": "Ole Henriksen Truth Juice Daily Cleanser 147 ml",
+        "image": "https://images.matas.dk/encode/840026641586.jpg",
+        "brand": "Ole Henriksen",
+        "price": "234,95 kr."
+    },
+    {
+        "id": 750319,
+        "name": "Kiehl’s Facial Fuel Energizing Moisturizer 125 ml",
+        "image": "https://images.matas.dk/encode/3700194719104.jpg",
+        "brand": "Kiehl’s",
+        "price": "334,95 kr."
+    },
+    {
+        "id": 809968,
+        "name": "Armani Acqua Di Gio Eau de Toilette Gaveæske",
+        "image": "https://images.matas.dk/encode/5414726066809_20231009073543.jpg",
+        "brand": "Armani",
+        "price": "654,95 kr."
+    },
+    {
+        "id": 783568,
+        "name": "Plaisir Intensive Anti-age Ansigtspleje Gaveæske",
+        "image": "https://images.matas.dk/encode/783568.jpg",
+        "brand": "Plaisir",
+        "price": "229,95 kr."
+    },
+    {
+        "id": 713159,
+        "name": "Rudolph Care Mommy & Me 145 ml",
+        "image": "https://images.matas.dk/Assets_v3/200001-300000/278001-279000/278001-278100/278024/product_v1_x2.jpg",
+        "brand": "Rudolph Care",
+        "price": "394,95 kr."
+    },
+    {
+        "id": 619597,
+        "name": "Lancôme Rénergie Multi-Lift Night Cream 50 ml",
+        "image": "https://images.matas.dk/encode/3605532670270.jpg",
+        "brand": "Lancôme",
+        "price": "869,95 kr."
+    },
+    {
+        "id": 896747,
+        "name": "Clinique Take The Day Off Cleansing Balm Makeup Remover 125 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/487001-488000/487501-487600/487503/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "294,95 kr."
+    },
+    {
+        "id": 752215,
+        "name": "Njord In Your Face! Gaveæske",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/767001-768000/767701-767800/767747/product_v1_x2.jpg",
+        "brand": "Njord",
+        "price": "299,95 kr."
+    },
+    {
+        "id": 763385,
+        "name": "Philips Trimmer Multi",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/588001-589000/588901-589000/588910/product_v1_x2.jpg",
+        "brand": "Philips",
+        "price": "349,95 kr."
+    },
+    {
+        "id": 813087,
+        "name": "Nilens Jord Pro-Age Favourites Gaveæske",
+        "image": "https://images.matas.dk/encode/813087_1.jpg",
+        "brand": "Nilens Jord",
+        "price": "399,95 kr."
+    },
+    {
+        "id": 657638,
+        "name": "Matas Striber Men Deo Stick til Sensitiv Hud Uden Parfume 75 ml",
+        "image": "https://images.matas.dk/Assets_v3/200001-300000/245001-246000/245701-245800/245711/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "59,95 kr."
+    },
+    {
+        "id": 728284,
+        "name": "Matas Striber Mild Showergel Uden Parfume 1000 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/490001-491000/490501-490600/490592/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "79,95 kr."
+    },
+    {
+        "id": 777971,
+        "name": "RITUALS The Ritual Trial Sakura Gaveæske",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/592001-593000/592501-592600/592501/product_v1_x2.jpg",
+        "brand": "RITUALS",
+        "price": "159,95 kr."
+    },
+    {
+        "id": 645975,
+        "name": "Rudolph Care Keep on Rolling Deo 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/591001-592000/591001-591100/591025/product_v1_x2.jpg",
+        "brand": "Rudolph Care",
+        "price": "138,71 kr."
+    },
+    {
+        "id": 767975,
+        "name": "La Roche-Posay Effaclar K+ ansigtscreme 40 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702201-702300/702213/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "184,95 kr."
+    },
+    {
+        "id": 767971,
+        "name": "La Roche-Posay Effaclar Rensegel 200 ml",
+        "image": "https://images.matas.dk/encode/767971_1_20231109073627.jpg",
+        "brand": "La Roche-Posay",
+        "price": "159,95 kr."
+    },
+    {
+        "id": 792764,
+        "name": "Ecooking A-Vitamin 0,15% kapsler 60 stk",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/727001-728000/727301-727400/727314/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "284,96 kr."
+    },
+    {
+        "id": 779745,
+        "name": "The Ordinary The Daily Set",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/588001-589000/588701-588800/588722/product_v1_x2.jpg",
+        "brand": "The Ordinary",
+        "price": "186,95 kr."
+    },
+    {
+        "id": 724108,
+        "name": "Ecooking Håndcreme 75 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653601-653700/653610/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "149,95 kr."
+    },
+    {
+        "id": 758465,
+        "name": "Rudolph Care Facial Oil Delight 15 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/591001-592000/591001-591100/591078/product_v1_x2.jpg",
+        "brand": "Rudolph Care",
+        "price": "444,95 kr."
+    },
+    {
+        "id": 784307,
+        "name": "ACO Glow Vitamin C Booster Serum 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/613001-614000/613401-613500/613457/product_v1_x2.jpg",
+        "brand": "ACO",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 759601,
+        "name": "The Ordinary Granactive Retinoid 5% in Squalane 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/469001-470000/469301-469400/469311/product_v1_x2.jpg",
+        "brand": "The Ordinary",
+        "price": "154,95 kr."
+    },
+    {
+        "id": 713155,
+        "name": "Hugo Boss Bottled Deodorant Spray for Men 150 ml",
+        "image": "https://images.matas.dk/encode/737052355054_20231026130548.jpg",
+        "brand": "Hugo Boss",
+        "price": "99,95 kr."
+    },
+    {
+        "id": 789176,
+        "name": "Clinique Smart Clinical Repair Wrinkle Rich Cream 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/735001-736000/735901-736000/735928/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "594,95 kr."
+    },
+    {
+        "id": 750219,
+        "name": "Kiehl’s Ultra Facial Cleanser 150 ml",
+        "image": "https://images.matas.dk/encode/3605970024192.jpg",
+        "brand": "Kiehl’s",
+        "price": "174,95 kr."
+    },
+    {
+        "id": 711568,
+        "name": "Elizabeth Arden Eight Hour Skin Protectant 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/707001-708000/707201-707300/707222/product_v1_x2.jpg",
+        "brand": "Elizabeth Arden",
+        "price": "149,95 kr."
+    },
+    {
+        "id": 732633,
+        "name": "Matas Striber Vatpinde med Træ 200 stk.",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/517001-518000/517601-517700/517690/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "stk. 17,95 kr."
+    },
+    {
+        "id": 749874,
+        "name": "Peter Thomas Roth Instant Firmx Eye 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/407001-408000/407901-408000/407976/product_v1_x2.jpg",
+        "brand": "Peter Thomas Roth",
+        "price": "354,95 kr."
+    },
+    {
+        "id": 785922,
+        "name": "Relevant Naturlig Deodorant Citrus & Cucumber",
+        "image": "https://images.matas.dk/encode/785922.jpg",
+        "brand": "Relevant",
+        "price": "95,95 kr."
+    },
+    {
+        "id": 809954,
+        "name": "Biotherm Blue Therapy Red Algae Gaveæske",
+        "image": "https://images.matas.dk/encode/3614274107975_20231009073543.jpg",
+        "brand": "Biotherm",
+        "price": "619,95 kr."
+    },
+    {
+        "id": 798350,
+        "name": "Beauté Pacifique Pit Stop Deo Roll-on 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702001-702100/702002/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 779789,
+        "name": "Matas Striber Moisturizing Lotion til Uren Hud Uden Parfume 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/764001-765000/764001-764100/764021/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "64,95 kr."
+    },
+    {
+        "id": 726075,
+        "name": "Matas Striber Plejende 24H Ansigtscreme til Tør Hud Uden Parfume 150 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/503001-504000/503301-503400/503385/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "69,95 kr."
+    },
+    {
+        "id": 770756,
+        "name": "Mario Badescu Drying Lotion 29 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/652001-653000/652801-652900/652867/product_v1_x2.jpg",
+        "brand": "Mario Badescu",
+        "price": "169,95 kr."
+    },
+    {
+        "id": 776709,
+        "name": "CeraVe Moisturising Lotion 236 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/713001-714000/713301-713400/713363/product_v1_x2.jpg",
+        "brand": "CeraVe",
+        "price": "102,95 kr."
+    },
+    {
+        "id": 810565,
+        "name": "Ole Henriksen Radiance Retreat Skincare Favorites Gaveæske",
+        "image": "https://images.matas.dk/encode/840026665995.jpg",
+        "brand": "Ole Henriksen",
+        "price": "714,95 kr."
+    },
+    {
+        "id": 788964,
+        "name": "Clarins Super Restorative Day Cream SPF 15 50 ml",
+        "image": "https://images.matas.dk/encode/3666057064517_20231011095846.jpg",
+        "brand": "Clarins",
+        "price": "874,95 kr."
+    },
+    {
+        "id": 749801,
+        "name": "Meraki Håndsæbe Northern Dawn 490 ml",
+        "image": "https://images.matas.dk/encode/5707644528048_20231024192043.jpg",
+        "brand": "Meraki",
+        "price": "112,95 kr."
+    },
+    {
+        "id": 890760,
+        "name": "Beauté Pacifique Defy Damage Serum 40 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/493001-494000/493101-493200/493180/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "419,95 kr."
+    },
+    {
+        "id": 624975,
+        "name": "Beauté Pacifique La Forte 60 tabl.",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/551001-552000/551001-551100/551019/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "399,95 kr."
+    },
+    {
+        "id": 774979,
+        "name": "Origins Ginzing Brightening Eye Cream Cool",
+        "image": "https://images.matas.dk/encode/717334267374.jpg",
+        "brand": "Origins",
+        "price": "274,95 kr."
+    },
+    {
+        "id": 725247,
+        "name": "Dermalogica Intensive Moisture Balance 100 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/508001-509000/508701-508800/508726/product_v1_x2.jpg",
+        "brand": "Dermalogica",
+        "price": "624,95 kr."
+    },
+    {
+        "id": 767990,
+        "name": "La Roche-Posay Lipikar Lait Bodylotion 400 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702101-702200/702186/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "227,95 kr."
+    },
+    {
+        "id": 781193,
+        "name": "Clinique Smart Clinicial Repair Wrinkle Correcting Eye Cream 15 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/735001-736000/735901-736000/735922/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "499,95 kr."
+    },
+    {
+        "id": 809550,
+        "name": "CeraVe Facial Moisturising Lotion SPF50 52 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/767001-768000/767801-767900/767888/product_v1_x2.jpg",
+        "brand": "CeraVe",
+        "price": "119,95 kr."
+    },
+    {
+        "id": 815775,
+        "name": "Ole Henriksen Touch Nourishing Bodylotion 400 ml",
+        "image": "https://images.matas.dk/encode/840026668071.jpg",
+        "brand": "Ole Henriksen",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 816192,
+        "name": "Tromborg Aroma Therapy Deluxe Soap Lavender Gaveæske",
+        "image": "https://images.matas.dk/encode/5704904888249_20231012114706.jpg",
+        "brand": "Tromborg",
+        "price": "129,95 kr."
+    },
+    {
+        "id": 809969,
+        "name": "Armani Code Deodorant Stick Gaveæske",
+        "image": "https://images.matas.dk/encode/5414726066816_20231011122512.jpg",
+        "brand": "Armani",
+        "price": "299,95 kr."
+    },
+    {
+        "id": 767972,
+        "name": "La Roche-Posay Effaclar Skintonic 200 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702201-702300/702273/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "159,95 kr."
+    },
+    {
+        "id": 724113,
+        "name": "Ecooking Hals-& Decolleté Creme 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653601-653700/653620/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "299,96 kr."
+    },
+    {
+        "id": 680140,
+        "name": "Origins Plantscription SPF 25 Power Anti-Aging Face Cream 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/488001-489000/488501-488600/488508/product_v1_x2.jpg",
+        "brand": "Origins",
+        "price": "564,95 kr."
+    },
+    {
+        "id": 763658,
+        "name": "Ecooking Godnatcreme 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653701-653800/653737/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "284,96 kr."
+    },
+    {
+        "id": 791292,
+        "name": "Beauté Pacifique Skin Tonic Dry skin 200 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/695001-696000/695701-695800/695725/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 890742,
+        "name": "Beauté Pacifique Enriched Moisturizing Daycreme All Skin Types 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/577001-578000/577401-577500/577425/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "169,95 kr."
+    },
+    {
+        "id": 725267,
+        "name": "Dermalogica Dynamic Skin Recovery SPF 50 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/508001-509000/508701-508800/508730/product_v1_x2.jpg",
+        "brand": "Dermalogica",
+        "price": "629,95 kr."
+    },
+    {
+        "id": 794039,
+        "name": "La Roche-Posay Niacinamide 10 Serum 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702201-702300/702248/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "348,95 kr."
+    },
+    {
+        "id": 724435,
+        "name": "Ole Henriksen Truth C-Rush Brightening Gel Cream 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/504001-505000/504201-504300/504214/product_v1_x2.jpg",
+        "brand": "Ole Henriksen",
+        "price": "479,95 kr."
+    },
+    {
+        "id": 890746,
+        "name": "Beauté Pacifique Instant Hydrating Mask 100 ml",
+        "image": "https://images.matas.dk/encode/890746.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "279,95 kr."
+    },
+    {
+        "id": 759616,
+        "name": "The Ordinary Natural Moisturizing Factors + HA 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/469001-470000/469301-469400/469322/product_v1_x2.jpg",
+        "brand": "The Ordinary",
+        "price": "62,95 kr."
+    },
+    {
+        "id": 815712,
+        "name": "Miss DIOR Gaveæske",
+        "image": "https://images.matas.dk/encode/3348901680479.jpg",
+        "brand": "DIOR",
+        "price": "969,95 kr."
+    },
+    {
+        "id": 778516,
+        "name": "NIVEA Luminous Anti-spot Serum 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/583001-584000/583601-583700/583637/product_v1_x2.jpg",
+        "brand": "NIVEA",
+        "price": "207,95 kr."
+    },
+    {
+        "id": 774521,
+        "name": "Biotherm Aquasource Cica Nutri 50 ml",
+        "image": "https://images.matas.dk/encode/3614273393546_20231012080512.jpg",
+        "brand": "Biotherm",
+        "price": "319,95 kr."
+    },
+    {
+        "id": 814505,
+        "name": "Beauté Pacifique Symphonique Gaveæske",
+        "image": "https://images.matas.dk/encode/814505.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "799,95 kr."
+    },
+    {
+        "id": 800326,
+        "name": "Matas Striber 2% Hyaluron Booster Serum Uden Parfume 30 ml",
+        "image": "https://images.matas.dk/encode/800326.jpg",
+        "brand": "Matas Striber",
+        "price": "74,95 kr."
+    },
+    {
+        "id": 718790,
+        "name": "Ecooking E-Vitamin Boost Serum 20 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653601-653700/653603/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "299,96 kr."
+    },
+    {
+        "id": 714846,
+        "name": "Ole Henriksen Truth Serum 30 ml",
+        "image": "https://images.matas.dk/encode/840026653961.jpg",
+        "brand": "Ole Henriksen",
+        "price": "534,95 kr."
+    },
+    {
+        "id": 820631,
+        "name": "La Roche-Posay Effaclar Foaming Gel +M 400 ml",
+        "image": "https://images.matas.dk/encode/3337872411991__1.jpg",
+        "brand": "La Roche-Posay",
+        "price": "209,95 kr."
+    },
+    {
+        "id": 723229,
+        "name": "Matas Striber Anti Wrinkle 24H Ansigtscreme til Normal Hud Uden Parfume 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/377001-378000/377101-377200/377146/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "79,95 kr."
+    },
+    {
+        "id": 729307,
+        "name": "Ole Henriksen Goodnight Glow Bakuchiol Sleeping Crème 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/683001-684000/683201-683300/683279/product_v1_x2.jpg",
+        "brand": "Ole Henriksen",
+        "price": "594,95 kr."
+    },
+    {
+        "id": 781786,
+        "name": "Filorga Time-Filler 5 XP Cream 50 ml",
+        "image": "https://images.matas.dk/encode/3540550010861.jpg",
+        "brand": "Filorga",
+        "price": "584,95 kr."
+    },
+    {
+        "id": 801343,
+        "name": "Lancôme Rénergie Yeux Eye Cream 15 ml",
+        "image": "https://images.matas.dk/encode/3614273923934.jpg",
+        "brand": "Lancôme",
+        "price": "469,95 kr."
+    },
+    {
+        "id": 809966,
+        "name": "Armani Acqua Di Gio Deodorant Stick Gaveæske",
+        "image": "https://images.matas.dk/encode/5414726066793_20231011122513.jpg",
+        "brand": "Armani",
+        "price": "299,95 kr."
+    },
+    {
+        "id": 646738,
+        "name": "Tromborg Deluxe Face Cream 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/696001-697000/696201-696300/696226/product_v1_x2.jpg",
+        "brand": "Tromborg",
+        "price": "479,95 kr."
+    },
+    {
+        "id": 718033,
+        "name": "Beauté Pacifique Superfruit Day Creme All Skin Types 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/546001-547000/546801-546900/546865/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "239,95 kr."
+    },
+    {
+        "id": 786091,
+        "name": "La Roche-Posay Toleriane Dermallergo Øjencreme 20 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702201-702300/702230/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "195,95 kr."
+    },
+    {
+        "id": 812068,
+        "name": "Hugo Boss The Scent For Her Gaveæske",
+        "image": "https://images.matas.dk/encode/3616304197994.jpg",
+        "brand": "Hugo Boss",
+        "price": "499,95 kr."
+    },
+    {
+        "id": 890759,
+        "name": "Beauté Pacifique Enriched Hydrating Handcreme 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/551001-552000/551001-551100/551036/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "99,95 kr."
+    },
+    {
+        "id": 778517,
+        "name": "NIVEA Luminous Anti-spot Dagcreme SPF 50 40 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/583001-584000/583601-583700/583638/product_v1_x2.jpg",
+        "brand": "NIVEA",
+        "price": "170,95 kr."
+    },
+    {
+        "id": 791384,
+        "name": "COSRX Advanced Snail 92 All in one Cream 100 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/655001-656000/655401-655500/655417/product_v1_x2.jpg",
+        "brand": "COSRX",
+        "price": "247,95 kr."
+    },
+    {
+        "id": 815765,
+        "name": "Clarins Pakkekalender",
+        "image": "https://images.matas.dk/encode/815765_20231106121825.jpg",
+        "brand": "Clarins",
+        "price": "999 kr."
+    },
+    {
+        "id": 772334,
+        "name": "Ecooking Young Ansigtscreme 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653701-653800/653781/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "149,95 kr."
+    },
+    {
+        "id": 730649,
+        "name": "Matas Natur Aloe Vera & E-vitamin Dagcreme SPF 15 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/583001-584000/583801-583900/583847/product_v1_x2.jpg",
+        "brand": "Matas Natur",
+        "price": "109,95 kr."
+    },
+    {
+        "id": 767951,
+        "name": "La Roche-Posay Toleriane Sensitive Riche 40 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702201-702300/702206/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "169,95 kr."
+    },
+    {
+        "id": 762361,
+        "name": "Clarins Total Eye Lift 15 ml",
+        "image": "https://images.matas.dk/encode/3380810405217_20231011095847.jpg",
+        "brand": "Clarins",
+        "price": "599,95 kr."
+    },
+    {
+        "id": 818120,
+        "name": "L'Occitane En Provence Classic Adventskalender",
+        "image": "https://images.matas.dk/encode/3253581766521_1_20231106125038.jpg",
+        "brand": "L'Occitane En Provence",
+        "price": "519,95 kr."
+    },
+    {
+        "id": 730692,
+        "name": "Matas Natur Aloe & E-vitamin Anti-Age Øjencreme 15 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/378001-379000/378401-378500/378431/product_v1_x2.jpg",
+        "brand": "Matas Natur",
+        "price": "144,95 kr."
+    },
+    {
+        "id": 741788,
+        "name": "Matas Natur Aloe Vera & E-vitamin Anti-age Serum 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/597001-598000/597701-597800/597749/product_v1_x2.jpg",
+        "brand": "Matas Natur",
+        "price": "144,95 kr."
+    },
+    {
+        "id": 773975,
+        "name": "The Ordinary Retinol 0.5% in Squalane 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/555001-556000/555001-555100/555027/product_v1_x2.jpg",
+        "brand": "The Ordinary",
+        "price": "79,95 kr."
+    },
+    {
+        "id": 814267,
+        "name": "Burberry Godess Gaveæske",
+        "image": "https://images.matas.dk/encode/3616304161865_20231010082510.jpg",
+        "brand": "Burberry",
+        "price": "919,95 kr."
+    },
+    {
+        "id": 812077,
+        "name": "Davidoff Cool Water Man Gaveæske",
+        "image": "https://images.matas.dk/encode/5709927370559_20231011101313.jpg",
+        "brand": "Davidoff",
+        "price": "324,95 kr."
+    },
+    {
+        "id": 725268,
+        "name": "Dermalogica Super Rich Repair 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/318001-319000/318601-318700/318602/product_v1_x2.jpg",
+        "brand": "Dermalogica",
+        "price": "784,95 kr."
+    },
+    {
+        "id": 718779,
+        "name": "Ecooking Rensegel 200 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653501-653600/653584/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "164,96 kr."
+    },
+    {
+        "id": 997011,
+        "name": "Biotherm Lait De Douche Showermilk 400 ml",
+        "image": "https://images.matas.dk/encode/3605540563441_1.jpg",
+        "brand": "Biotherm",
+        "price": "149,95 kr."
+    },
+    {
+        "id": 700477,
+        "name": "Clinique Antiperspirant Deodorant Roll-On 75 ml",
+        "image": "https://images.matas.dk/Assets_v3/200001-300000/202001-203000/202401-202500/202438/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "119,95 kr."
+    },
+    {
+        "id": 821942,
+        "name": "CeraVe Hydrating Foaming Oil Cleanser 473 ml",
+        "image": "https://images.matas.dk/encode/3337875773447.jpg",
+        "brand": "CeraVe",
+        "price": "114,95 kr."
+    },
+    {
+        "id": 776789,
+        "name": "Ecooking 24 Timers Creme Parfumefri 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653801-653900/653892/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "239,96 kr."
+    },
+    {
+        "id": 789179,
+        "name": "Clinique Smooth & Renew Sæt",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/657001-658000/657701-657800/657746/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "624,95 kr."
+    },
+    {
+        "id": 812066,
+        "name": "Hugo Boss Bottled Gaveæske",
+        "image": "https://images.matas.dk/encode/5709927183210_20231016124341.jpg",
+        "brand": "Hugo Boss",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 728135,
+        "name": "Matas Striber Granatæble Bodylotion 400 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/597001-598000/597701-597800/597751/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "74,95 kr."
+    },
+    {
+        "id": 759599,
+        "name": "The Ordinary Squalane Cleanser 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/400001-500000/473001-474000/473301-473400/473345/product_v1_x2.jpg",
+        "brand": "The Ordinary",
+        "price": "86,95 kr."
+    },
+    {
+        "id": 743487,
+        "name": "Matas Natur Aloe Vera & E-vitamin Deo Roll-on 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/550001-551000/550701-550800/550750/product_v1_x2.jpg",
+        "brand": "Matas Natur",
+        "price": "64,95 kr."
+    },
+    {
+        "id": 771801,
+        "name": "New Nordic Collagen & Hyaluronsyre Beauty Powder 360 g",
+        "image": "https://images.matas.dk/encode/771801_1.jpg",
+        "brand": "New Nordic",
+        "price": "484,95 kr."
+    },
+    {
+        "id": 924663,
+        "name": "Clinique Clarifying Lotion Skin Type 2 200 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/522001-523000/522301-522400/522314/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "204,95 kr."
+    },
+    {
+        "id": 752291,
+        "name": "Ecooking Bodylotion Parfumefri 300 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653601-653700/653674/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "187,46 kr."
+    },
+    {
+        "id": 739404,
+        "name": "Ecooking Skintonic Parfumefri 200 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/653001-654000/653601-653700/653659/product_v1_x2.jpg",
+        "brand": "Ecooking",
+        "price": "164,96 kr."
+    },
+    {
+        "id": 820320,
+        "name": "Ecooking 50+ Wake Up Cream SPF 50 50 ml",
+        "image": "https://images.matas.dk/encode/820320_1.jpg",
+        "brand": "Ecooking",
+        "price": "322,46 kr."
+    },
+    {
+        "id": 795741,
+        "name": "VitaYummy Collagen Tropical 60 stk.",
+        "image": "https://images.matas.dk/encode/795741_20231024192002.jpg",
+        "brand": "VitaYummy",
+        "price": "169,95 kr."
+    },
+    {
+        "id": 735808,
+        "name": "Weleda Skin Food Light 75 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/594001-595000/594901-595000/594956/product_v1_x2.jpg",
+        "brand": "Weleda",
+        "price": "114,95 kr."
+    },
+    {
+        "id": 754994,
+        "name": "Biotherm Life Plankton Body Milk 400 ml",
+        "image": "https://images.matas.dk/encode/3614272848573.jpg",
+        "brand": "Biotherm",
+        "price": "209,95 kr."
+    },
+    {
+        "id": 779458,
+        "name": "Vichy Neovadiol Post-Menopause Dagcreme 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702501-702600/702529/product_v1_x2.jpg",
+        "brand": "Vichy",
+        "price": "309,95 kr."
+    },
+    {
+        "id": 725238,
+        "name": "Dermalogica Special Cleansing Gel 500 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/508001-509000/508701-508800/508724/product_v1_x2.jpg",
+        "brand": "Dermalogica",
+        "price": "564,95 kr."
+    },
+    {
+        "id": 783579,
+        "name": "Matas Striber Granatæble Kropspleje Gaveæske",
+        "image": "https://images.matas.dk/encode/783579.jpg",
+        "brand": "Matas Striber",
+        "price": "139,95 kr."
+    },
+    {
+        "id": 812093,
+        "name": "Shiseido Vital Perfection Gaveæske",
+        "image": "https://images.matas.dk/encode/3423222094690.jpg",
+        "brand": "Shiseido",
+        "price": "994,95 kr."
+    },
+    {
+        "id": 776586,
+        "name": "Beauté Pacifique Symphonique Daytime Dry skin 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/565001-566000/565901-566000/565907/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "699,95 kr."
+    },
+    {
+        "id": 800526,
+        "name": "Biotherm Aquathermale Shower Gel 200 ml",
+        "image": "https://images.matas.dk/encode/3367729582017.jpg",
+        "brand": "Biotherm",
+        "price": "179,95 kr."
+    },
+    {
+        "id": 774526,
+        "name": "Biotherm Blue Pro-Retinol Cream 50 ml",
+        "image": "https://images.matas.dk/encode/3614273262484_20231012080511.jpg",
+        "brand": "Biotherm",
+        "price": "599,95 kr."
+    },
+    {
+        "id": 728142,
+        "name": "Matas Striber Carbamid Bodylotion 5% Uden Parfume 400 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/396001-397000/396901-397000/396986/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "74,95 kr."
+    },
+    {
+        "id": 757162,
+        "name": "RITUALS The Ritual of Sakura Foaming Shower Gel 200 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/503001-504000/503101-503200/503196/product_v1_x2.jpg",
+        "brand": "RITUALS",
+        "price": "89,95 kr."
+    },
+    {
+        "id": 800124,
+        "name": "Lancôme Deodorant Spray 125 ml",
+        "image": "https://images.matas.dk/encode/3147758051216.jpg",
+        "brand": "Lancôme",
+        "price": "194,95 kr."
+    },
+    {
+        "id": 786092,
+        "name": "La Roche-Posay Toleriane Dermallergo Cream 40 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702201-702300/702233/product_v1_x2.jpg",
+        "brand": "La Roche-Posay",
+        "price": "204,95 kr."
+    },
+    {
+        "id": 779782,
+        "name": "Matas Striber Face Wash til Uren Hud Uden Parfume 150 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/764001-765000/764001-764100/764012/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "64,95 kr."
+    },
+    {
+        "id": 564553,
+        "name": "Locobase Repair 100 g",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/735001-736000/735501-735600/735510/product_v1_x2.jpg",
+        "brand": "Locobase",
+        "price": "179,95 kr."
+    },
+    {
+        "id": 809956,
+        "name": "Biotherm Værtindegave",
+        "image": "https://images.matas.dk/encode/3614274102307_20231009073543.jpg",
+        "brand": "Biotherm",
+        "price": "169,95 kr."
+    },
+    {
+        "id": 728914,
+        "name": "Matas Striber Mild Rensemousse til Sensitiv Hud Uden Parfume 150 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/377001-378000/377101-377200/377163/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "54,95 kr."
+    },
+    {
+        "id": 660502,
+        "name": "Vivag Vaginalkapsler 10 stk",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/514001-515000/514201-514300/514254/product_v1_x2.jpg",
+        "brand": "Vivag",
+        "price": "129,95 kr."
+    },
+    {
+        "id": 781606,
+        "name": "Kiehl’s Midnight Recovery Omega-Rich Cloud Cream Night 50 ml",
+        "image": "https://images.matas.dk/encode/3605972645289.jpg",
+        "brand": "Kiehl’s",
+        "price": "414,95 kr."
+    },
+    {
+        "id": 802564,
+        "name": "Armani Acqua Di Gio Deodorant Stick 75 g",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/719001-720000/719801-719900/719838/product_v1_x2.jpg",
+        "brand": "Armani",
+        "price": "224,96 kr."
+    },
+    {
+        "id": 778524,
+        "name": "Pudderdåserne.dk Cremen 100 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/601001-602000/601701-601800/601780/product_v1_x2.jpg",
+        "brand": "Pudderdåserne.dk",
+        "price": "199,95 kr."
+    },
+    {
+        "id": 425036,
+        "name": "Safety5 5Days Deo Women 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/356001-357000/356001-356100/356060/product_v1_x2.jpg",
+        "brand": "Safety5",
+        "price": "159,95 kr."
+    },
+    {
+        "id": 766218,
+        "name": "Ole Henriksen Lemonade Smoothing Scrub 90 ml",
+        "image": "https://images.matas.dk/encode/840026652889.jpg",
+        "brand": "Ole Henriksen",
+        "price": "304,95 kr."
+    },
+    {
+        "id": 814605,
+        "name": "Biotherm Blue Pro-Retinol Eye Cream 15 ml",
+        "image": "https://images.matas.dk/encode/3614273869997_20231012081128.jpg",
+        "brand": "Biotherm",
+        "price": "399,95 kr."
+    },
+    {
+        "id": 816118,
+        "name": "Clinique Smart Clinical Repair Moisturizer Anti-Aging Gaveæske",
+        "image": "https://images.matas.dk/encode/192333180587.jpg",
+        "brand": "Clinique",
+        "price": "549,95 kr."
+    },
+    {
+        "id": 786086,
+        "name": "La Roche-Posay Anthelios UVMune Hydrating Creme Spf 50+ 50 ml",
+        "image": "https://images.matas.dk/encode/3337875797719__1.jpg",
+        "brand": "La Roche-Posay",
+        "price": "172,95 kr."
+    },
+    {
+        "id": 680343,
+        "name": "L'Oréal Paris Age Perfect Golden Age Dagcreme Rosy 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/600001-700000/699001-700000/699001-699100/699070/product_v1_x2.jpg",
+        "brand": "L'Oréal Paris",
+        "price": "207,95 kr."
+    },
+    {
+        "id": 807200,
+        "name": "Avène Hyaluron Activ B3 Plumping Serum 30 ml",
+        "image": "https://images.matas.dk/encode/3282770153101_1.jpg",
+        "brand": "Avène",
+        "price": "324,95 kr."
+    },
+    {
+        "id": 818295,
+        "name": "RITUALS The Ritual of Sakura Gaveæske - Large",
+        "image": "https://images.matas.dk/encode/818295_1.jpg",
+        "brand": "RITUALS",
+        "price": "399,95 kr."
+    },
+    {
+        "id": 786084,
+        "name": "CeraVe SA Smoothing Cream 177 ml",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/702001-703000/702001-702100/702084/product_v1_x2.jpg",
+        "brand": "CeraVe",
+        "price": "129,95 kr."
+    },
+    {
+        "id": 682313,
+        "name": "Clinique Superdefense Night Skin Type 1+2 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/307001-308000/307301-307400/307374/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "439,95 kr."
+    },
+    {
+        "id": 769568,
+        "name": "Embryolisse Lait Créme Sensitive Fugtighedscreme 100 ml",
+        "image": "https://images.matas.dk/encode/769568.jpg",
+        "brand": "Embryolisse",
+        "price": "219,95 kr."
+    },
+    {
+        "id": 630158,
+        "name": "Clinique Moisture Surge Overnight Mask 100 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/525001-526000/525801-525900/525882/product_v1_x2.jpg",
+        "brand": "Clinique",
+        "price": "334,95 kr."
+    },
+    {
+        "id": 728143,
+        "name": "Matas Striber Carbamid Bodylotion 10% 400 ml",
+        "image": "https://images.matas.dk/Assets_v3/300001-400000/391001-392000/391201-391300/391237/product_v1_x2.jpg",
+        "brand": "Matas Striber",
+        "price": "74,95 kr."
+    },
+    {
+        "id": 724109,
+        "name": "Ecooking Fugt Serum 20 ml",
+        "image": "https://images.matas.dk/encode/724109.jpg",
+        "brand": "Ecooking",
+        "price": "299,96 kr."
+    },
+    {
+        "id": 816191,
+        "name": "Tromborg Aroma Therapy Deluxe Soap Ginger Gaveæske",
+        "image": "https://images.matas.dk/encode/5704904888232_20231012115051.jpg",
+        "brand": "Tromborg",
+        "price": "129,95 kr."
+    },
+    {
+        "id": 810568,
+        "name": "Ole Henriksen Pout Preserve Lip Treatment Lingonberry Jam 12 ml",
+        "image": "https://images.matas.dk/encode/840026666213.jpg",
+        "brand": "Ole Henriksen",
+        "price": "144,95 kr."
+    },
+    {
+        "id": 800811,
+        "name": "Ole Henriksen Pout Preserve Peptide Lip Treatment 12 ml",
+        "image": "https://images.matas.dk/encode/840026657723.jpg",
+        "brand": "Ole Henriksen",
+        "price": "144,95 kr."
+    },
+    {
+        "id": 818281,
+        "name": "Ecooking Hands & Feet Gaveæske",
+        "image": "https://images.matas.dk/encode/818281.jpg",
+        "brand": "Ecooking",
+        "price": "299,95 kr."
+    },
+    {
+        "id": 748990,
+        "name": "Rudolph Care Firming Perfector Serum 30 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/591001-592000/591001-591100/591077/product_v1_x2.jpg",
+        "brand": "Rudolph Care",
+        "price": "994,95 kr."
+    },
+    {
+        "id": 890744,
+        "name": "Beauté Pacifique A-Vitamin Creme 50 ml",
+        "image": "https://images.matas.dk/Assets_v3/100001-200000/193001-194000/193601-193700/193603/product_v1_x2.jpg",
+        "brand": "Beauté Pacifique",
+        "price": "409,95 kr."
+    },
+    {
+        "id": 782970,
+        "name": "Drogens Vital Hud, Hår & Negle 160 stk",
+        "image": "https://images.matas.dk/Assets_v3/700001-800000/755001-756000/755101-755200/755155/product_v1_x2.jpg",
+        "brand": "Drogens Vital",
+        "price": "159,95 kr."
+    },
+    {
+        "id": 623044,
+        "name": "Rudolph Care Acai Eye Cream 15 ml",
+        "image": "https://images.matas.dk/Assets_v3/500001-600000/591001-592000/591001-591100/591019/product_v1_x2.jpg",
+        "brand": "Rudolph Care",
+        "price": "394,95 kr."
+    }
+]
