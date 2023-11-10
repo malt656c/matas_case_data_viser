@@ -11,7 +11,7 @@ export default function Home() {
     <main>
       {productData.map((produkt)=>{
   return(
-    <ProductCard image={produkt.image} name={produkt.name} price={produkt.price} key={produkt.id}></ProductCard>
+    <ProductCard key={produkt.id} image={produkt.image} name={produkt.name} price={produkt.price} ></ProductCard>
   )
 })}
     </main>
