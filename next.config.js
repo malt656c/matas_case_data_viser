@@ -1,13 +1,7 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+    protocol: 'https',
+    hostname: 'images.matas.dk',
+}
 
-module.exports = {
-  images: {
-    remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "images.matas.dk",
-      },
-    ],
-  },
-};
+module.exports ={nextConfig} 
